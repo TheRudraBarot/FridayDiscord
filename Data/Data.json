@@ -1,0 +1,884 @@
+{
+    "Horoscope": {
+        "ZSigns": [
+            "Aries",
+            "Taurus",
+            "Gemini",
+            "Cancer",
+            "Leo",
+            "Virgo",
+            "Libra",
+            "Scorpio",
+            "Sagittarius",
+            "Capricorn",
+            "Aquarius",
+            "Pisces"
+        ],
+        "ZImages": {
+            "Aquarius": "https://i.imgur.com/h73EV8x.jpeg",
+            "Aries": "https://i.imgur.com/GCffqMD.jpeg",
+            "Cancer": "https://i.imgur.com/hvZv6rt.jpeg",
+            "Capricorn": "https://i.imgur.com/GWIbuZo.jpeg",
+            "Gemini": "https://i.imgur.com/fHgiv8z.jpeg",
+            "Leo": "https://i.imgur.com/dwNTp6f.jpeg",
+            "Libra": "https://i.imgur.com/CXblOpf.jpeg",
+            "Pisces": "https://i.imgur.com/rjj0AHV.jpeg",
+            "Sagittarius": "https://i.imgur.com/mN6je1r.jpeg",
+            "Scorpio": "https://i.imgur.com/DSFRW9S.jpeg",
+            "Taurus": "https://i.imgur.com/bl22prZ.jpeg",
+            "Virgo": "https://i.imgur.com/jAzW6cs.jpeg"
+        },
+        "07.04.2022": {
+            "aries": {
+                "Horoscope": "You\u2019re conflicted, Aries. There\u2019s a part of you that wants to do right by them and then there\u2019s another part of you that wants to protect yourself. Just keep in mind that you cannot buckle somebody else\u2019s seatbelt until you\u2019ve secured yourself. Oh, and one more thing! Your intuition seldom lies. So, stop ignoring what the signs are telling you and take timely action.",
+                "CosmicTip": "Cosmic tip: The art of buckling your seatbelt first."
+            },
+            "taurus": {
+                "Horoscope": "This life of ours is cyclical in nature. The ebb is followed by the flow. A period of struggle is often succeeded by recognition and reward. So, revel in the victory you are experiencing at the moment, but don\u2019t get attached to it. Watch from the lens of an observer the adoration that comes with it. The world is but a fickle place and its residents are known to change their loyalties in a matter of seconds. Learning to create for the joy of creating and nothing else will free you from the desire for external validation.",
+                "CosmicTip": "Cosmic tip: Create for the joy of creating and nothing else."
+            },
+            "gemini": {
+                "Horoscope": "Melt and merge into the lap of Mother Nature. Let the sight of the palm trees and song of the bird refuel your reserves. A healthy dose of vitamin D is what is required right now! If running into the wilderness is not an option, engage in activities that evoke joy exactly where you are. When was the last time you got your hands messy while painting your feelings onto the canvas or watched your favourite cartoons as a form of therapy?",
+                "CosmicTip": "Cosmic tip: Melt and merge into the lap of Mother Nature."
+            },
+            "cancer": {
+                "Horoscope": "You are both the creator and destroyer of your reality, Cancer. So, recognise the chapters that are waiting to be concluded and the cycles that are nearing their end. Taking timely actions will prevent colossal damage *and* heartache. As such, this is also a time of letting go of false attachments and relationships that have lived past their expiration date. Don\u2019t let nostalgia be the reason you continue to hold onto that which has served its purpose in your existence",
+                "CosmicTip": "Cosmic tip: You are both the creator and destroyer of your reality."
+            },
+            "leo": {
+                "Horoscope": "Out of the darkness and into the light, Leo. This is the time to dream big and pursue what seems impossible to them muggles. You were sent here on a mission. A mission to be yourself as fully as you can, shine your light onto the world, and inspire others to live their highest potential. You're wearing the glow that comes from doing what you were always meant to do and being the most glorious version of yourself. Trust that big manifestation energy surrounds you at this moment and that the Universe is working overtime to help you make your dreams a reality.",
+                "CosmicTip": "Cosmic tip: Be yourself as fully as you can."
+            },
+            "virgo": {
+                "Horoscope": "You\u2019re not here for the small talk, Virgo. You\u2019re looking for deep, meaningful connections. You want to converse about everything, from quantum theories about the Universe to the dreams you dreamed when you were little. Nothing is too much or too bizarre when you\u2019re with them, and that\u2019s what makes the space you share oh-so-beautiful! What the cards are encouraging you to do: take off the masks that you\u2019ve been hiding behind and allow yourself to be seen.",
+                "CosmicTip": "Cosmic tip: Know when it\u2019s time to take the masks off."
+            },
+            "libra": {
+                "Horoscope": "Oh, to feel this deeply is truly a gift, Libra! Recognise the power of your emotions. Recognise how your sensitivity makes you capable of experiencing so many more hues than the average person. When you stop fighting against your true nature, something magical happens! As such, the week ahead is also bringing with itself the energy of harmony and emotional fulfilment. Being who you are unapologetically will help you call in the kind of connections that are truly a vibrational match.",
+                "CosmicTip": "Cosmic tip: Accept your true nature rather than fighting against it."
+            },
+            "scorpio": {
+                "Horoscope": "You\u2019ve planted your seeds with loving intention, Scorpio. It\u2019s now time to move to the next level. To take inspired action and focus on expansion. What you need to keep in mind as you progress on your path is that there is no right and wrong way. You have the permission to follow the urges of your soul. You have the permission to make up your own rules. The ability to innovate will help you carve your own path to greatness.",
+                "CosmicTip": "Cosmic tip: Give yourself the permission to follow the urges of your soul."
+            },
+            "sagittarius": {
+                "Horoscope": "But, who told you that you\u2019re asking for *too* much or that your desires are invalid? Who told you that you are being unreasonable by expecting more from them and this relationship? Our desires evolve with us, Sagittarius. So, accept when you are in your journey and what is that your subconscious is telling you at this moment. Remember, by not expressing your truth explicitly, you are betraying yourself.",
+                "CosmicTip": "Cosmic tip: Speak your heart and your mind, beautiful."
+            },
+            "capricorn": {
+                "Horoscope": "The change starts with you, Capricorn, and the change starts today. You get to decide what you are worth and how you wish to be compensated. Reclaiming your power will help you ask for what you want in every situation. As such, the cards are also urging you to take stock of your energy. To observe the things that are draining your reserves, whether it is codependent relationships or excessive screen time. Drawing boundaries will feel uncomfortable in the beginning, and that\u2019s okay. Trust that this is the only way to liberate yourself from the old cycles.",
+                "CosmicTip": "Cosmic tip: The change starts with you."
+            },
+            "aquarius": {
+                "Horoscope": "It\u2019s one of those days, Aquarius. One of those days when nobody seems to understand what you have to say and nothing seems to be going your way. Instead of pushing against the flow, disengage. Retreat into your sacred space. Finding a way to balance your emotions will ultimately bring you back to your centre.",
+                "CosmicTip": "Cosmic tip: Disengage and retreat into your sacred space."
+            },
+            "pisces": {
+                "Horoscope": "Every song on the radio reminds you of your time spent together and the smell of nostalgia continues to linger in the room. Taking a walk down memory lane has its perks. But, don\u2019t forget that it has its perils too! Today, you\u2019re being asked to come back to the present moment as you break past any and all illusions. A rebirth is imminent, Pisces. A rebirth that will require you to take your seatbelt off and freefall through time and space.",
+                "CosmicTip": "Cosmic tip: A rebirth is imminent."
+            }
+        },
+        "08.04.2022": {
+            "aries": {
+                "Horoscope": "While you\u2019re on the right track, there\u2019s something out of alignment here. Instead of rushing to the finish line in true Aries style, pause. Read the fine print carefully. Understand how and where you need to renegotiate the terms and conditions. This will help you ask for what you are truly worth. The only thing you want to keep in mind is that worthiness is determined not by accolades but how you perceive yourself.",
+                "CosmicTip": "Cosmic tip: Understand how and where you need to renegotiate the terms and conditions."
+            },
+            "taurus": {
+                "Horoscope": "It's easy to strum a guitar and sing love songs. It\u2019s easy to make promises by the moonlight only to forget them at the crack of dawn. Today, the cards are urging you to observe who is and isn\u2019t showing up with you. To notice the alignment between actions and words. Every now and then, we need to take our rose-tinted glasses off to recognise who no longer deserves a special place in our heart.",
+                "CosmicTip": "Cosmic tip: The Universe is likely to send your way a truth bomb."
+            },
+            "gemini": {
+                "Horoscope": "Ah, talk about timing! Just when you made peace with where you are, the Universe decided to send an unexpected opportunity your way. The truth is, the offer is as good as it appears on paper. However, you may or may not have the bandwidth to take it up at the moment. Instead of committing to something that may be unrealistic at this point, ask for the time you need. Remember, you can always accept the offer at a later date when you have the energy required to set into motion.",
+                "CosmicTip": "Cosmic tip: Defer the offer at hand."
+            },
+            "cancer": {
+                "Horoscope": "\u2018Carpe diem\u2019 is your mantra this week, Cancer. You\u2019re ready to show up for who and what you love. You\u2019re ready to put in the work it takes to get to the top. So, what if you have to sacrifice a few hours of personal time along the way? The cards are also reminding you the importance of fine tuning your skills. Don\u2019t pass up the opportunity to train under a mentor at this time.",
+                "CosmicTip": "Cosmic tip: Put in the work. Fine-tune your skills."
+            },
+            "leo": {
+                "Horoscope": "\u2018\u2018Expect your every need to be met. Expect the answer to every problem. Expect abundance on every level. Expect to grow spiritually. You are not living by the human laws.\u2019\u2019 An Abraham Hicks quote to help you stay spiritually caffeinated through the rest of the week. What the cards want you to know is that you are in the energy of manifestation and that your unyielding faith is making you irresistible to all the miracles you have been calling in. PS: Ready to watch your desires take form?",
+                "CosmicTip": "Cosmic tip: Doubting yourself is not recommended at this time."
+            },
+            "virgo": {
+                "Horoscope": "Quit waiting for Friday\u2014for that special day\u2014for retirement\u2014for that moment when everything looks picture perfect. Here\u2019s the thing, honey: perfection is a myth and there will never be a time when you feel fully prepared to set off on that pilgrimage. So, say RIP to your inhibitions. Set things into motions. Start investing in your wildest dreams and visions. Oh, and one more thing! Marry the idea of consistency and prepare to take sustained action.",
+                "CosmicTip": "Cosmic Tip: Start investing in your wildest dreams."
+            },
+            "libra": {
+                "Horoscope": "Here\u2019s the secret to emotional fulfilment, Libra: learning to fill your own. When you begin to hold the vibration of joy within your being is when you will call in the right connections into your life. This could manifest both as a healthy partnership and a nurturing soul family in the coming months. You\u2019re also likely to feel a surge of creativity at this time. Allow yourself to run with the ideas you are channelling at this time. Know that the Divine Goddess is expressing her madness through you.",
+                "CosmicTip": "Cosmic tip: Consider emotional fulfilment as a gift from the stars."
+            },
+            "scorpio": {
+                "Horoscope": "If scrolling endlessly took us places, then we'd all be the President of a small nation by now. Or well, the CEO of a major company at least! But, our virtual adventures are getting us nowhere. Scorpio, it\u2019s time to roll up your sleeves and prepare for a period of hard work. Yes, this will require you to marry the concept of consistency and show up even on the days there is no immediate reward. Trust that it will all add up!",
+                "CosmicTip": "Cosmic tip: Roll up your sleeves and prepare for a period of hard work"
+            },
+            "sagittarius": {
+                "Horoscope": "But, how much time are you devoting to your passions, Sagittarius? Are you riding the wave of creativity or succumbing to the demands of your mundane reality? It\u2019s time to strike a balance, beautiful. It\u2019s to take agency of your life and make time for the activities that awaken joy. PS: If you\u2019ve thinking about sharing your voice with the world, now is the perfect time to do so.",
+                "CosmicTip": "Cosmic tip: Make time for the activities that awaken joy.\u00a0"
+            },
+            "capricorn": {
+                "Horoscope": "You\u2019re not here for the small talk, Capricorn. You\u2019re no longer indulging lovers who seem to have one foot out of the door. You\u2019re seeking deep, meaningful connections. You\u2019re willing to make yourself vulnerable and take the masks off. Yes, this is the big love. The real love. The one that you\u2019ve been calling into your Universe for some time. Allow yourself to dive deeper. To discover the many layers. And don\u2019t worry too much about drowning! You\u2019ll always find a way to glide back to the shore.",
+                "CosmicTip": "Cosmic tip: Take the masks off."
+            },
+            "aquarius": {
+                "Horoscope": "If we all thought and acted similarly, there would be nothing to learn from one another. We would almost never be challenged to think differently or widen our world view. So, honour the polarity between you and your fellow warriors as this is what is helping your soul evolve. Remember, the energy we put into the Universe *always* finds its way back to us. Think of this as an opportune time to plant the seeds of unconditional love!",
+                "CosmicTip": "Cosmic tip: Honour the differences too."
+            },
+            "pisces": {
+                "Horoscope": "But, how are you nurturing yourself? What are the ways in which you are refuelling your reserves? Today, the cards are urging you to hit the pause button, to breathe, to return to your body, to journey back to the present moment. Another way to ground *and* get some vitamin D is by spending time outdoors. Consider making your way to the nearest park, beach, forest or lakes. Allow yourself to melt into Mamma Gaia\u2019s warm embrace. Trust that connecting with the elements will make you feel alive again.",
+                "CosmicTip": "Cosmic tip: Spend some time in nature today."
+            }
+        },
+        "09.04.2022": {
+            "aries": {
+                "Horoscope": "The cards are bringing your attention to the inner enemies. Jealousy, for instance, and even complacency. Your ability to triumph over them will determine the success of your venture. So, look into the shadows to understand what it is that you need to transform within. Here\u2019s something you want to remember as you step into the battlefield: you have all the cosmic support that you need in this moment.",
+                "CosmicTip": "Cosmic tip: But, first, confront the inner enemy."
+            },
+            "taurus": {
+                "Horoscope": "But, how many times do you actively engage, Taurus? How often are you able to hold space for other people? The cards are bringing your attention to sacred threads that bind you together. So, see your relationships for the source of joy that they are. Nurture with care. You are being presented with the opportunity to deepen your relationships and experience intimacy in every sense of the word.",
+                "CosmicTip": "Cosmic tip: This is your chance to *actively* engage."
+            },
+            "gemini": {
+                "Horoscope": "Self-expression is a big theme for you right now. You\u2019re giving yourself free rein to explore the possibility of who you can be and what you can create. Trust that making art from a space of authenticity will prove to be your greatest contribution to your community. As such, the card of love and romance is also present in your reading. A chance encounter with a potential lover is indicated. Somebody who\u2019s both sensitive and witty. Just make sure you say \u2018yes\u2019 a lot more than you say \u2018no\u2019 today.",
+                "CosmicTip": "Cosmic tip: Explore the possibility of who you can be and what you can create."
+            },
+            "cancer": {
+                "Horoscope": "There are days you have to jump in and engage with life fully, and then there are days when you need to step back and watch the show unfold. If the cosmic cues are anything to go by, you will be required to play the role of the \u2018observer\u2019 today. Yes, this means being mindful of your triggers to so you know when *not* to react. Learning that other people are operating from a space of unawareness will help you keep your temper in check.\u00a0 Oh, and one more thing! Your BS radar is stronger than you think. So, if you sense that somebody is trying to salt your game, don\u2019t second guess yourself.",
+                "CosmicTip": "Cosmic tip: Disengage from the drama, beautiful."
+            },
+            "leo": {
+                "Horoscope": "Save the drama for your mama, Leo! You\u2019re good at what you do and you don\u2019t need us to affirm that. It\u2019s time to change the game for good. To hype yourself silly and to go after your goals. Yes, you may trip and fall on your backside once in a while. Trust that the possibility of you making a breakthrough is far greater than what you imagine!",
+                "CosmicTip": "Cosmic tip: Nobody has time for Impostor\u2019s Syndrome."
+            },
+            "virgo": {
+                "Horoscope": "You are more than what you do for a living. You are a multifaceted being with many talents, who is a master in the art of self-expression. This weekend, you\u2019re being encouraged to give yourself the permission to step into uncharted territories. To explore the many aspects of who you can. If this requires you to renegotiate your terms and conditions with a current employer, so be it.",
+                "CosmicTip": "Cosmic tip: This is your green flag to explore the many aspects of you."
+            },
+            "libra": {
+                "Horoscope": "You\u2019re disappointed, Libra. You\u2019re tired of being the only one who is watering the sapling of this love. You want your tribe to show up for you and you want them to show up now. Just make sure you fill your own cup before you hold space for the \u2018the talk\u2019. At the same time, don\u2019t feel the need to apologise for what you\u2019re going through or intellectualise your emotions. Those who truly care for you will never expect you to be anybody but your most authentic self.",
+                "CosmicTip": "Cosmic tip: Don\u2019t apologise for who you are or what you\u2019re going through."
+            },
+            "scorpio": {
+                "Horoscope": "Love is known to both soothe and sting. You would know all about that, wouldn\u2019t you now? The past few weeks have been a rollercoaster ride. You\u2019ve had to battle with all kinds of demons inside. But, have you considered that \u2018the other\u2019 is not the culprit in your story? Simply the mirror through which you are being asked to confront the dated beliefs. So, honour what\u2019s transpiring right now as an opportunity for growth. This is a time of looking inwards and plucking the weeds out of your garden.\u00a0",
+                "CosmicTip": "Cosmic tip: You\u2019re having deep revelations about what you need to eliminate."
+            },
+            "sagittarius": {
+                "Horoscope": "As you evolve, your beliefs shapeshift with you, Sagittarius. The things that you once considered sacred, no longer feel like a priority in the grand scheme of things. Today, instead of being hung up on the idea of who you should or shouldn\u2019t be, allow yourself to explore. Allow yourself to explore the idea of who you can be without letting your preconceived notions interfere with the process. Oh, and the other thing you want to free yourself from is the weight of other people\u2019s expectations!",
+                "CosmicTip": "Cosmic tip: It\u2019s time to grow into who you were always meant to be."
+            },
+            "capricorn": {
+                "Horoscope": "The cards are bringing your attention to the lesson of self-betrayal. Pay attention to all the ways in which you\u2019re being called to hold space for your growth. All the ways in which you are being asked to stay true to yourself. Expressing your needs will make you feel vulnerable at first, and that\u2019s okay. One step at a time, Capricorn. You are in the process of breaking an age-old cycle.",
+                "CosmicTip": "Cosmic tip: Stay true to yourself."
+            },
+            "aquarius": {
+                "Horoscope": "So, it didn\u2019t work out the way you wanted it to! Instead of fretting over all the things you \u2018lost\u2019 in the bargain, focus on the lessons learned. Focus on the experiences gained. At the same, don\u2019t let your battle wounds become the reason for your bitterness. You possess within you the capacity to heal and move into a space of wholeness again. Remember, love is your true nature, Aquarius, and love will help you get through this.",
+                "CosmicTip": "Cosmic tip: Reconnect with that stream of love within.\u00a0"
+            },
+            "pisces": {
+                "Horoscope": "Everything comes with an expiry date, Pisces. We repeat: everything comes with an expiry date. So, recognise the end of this cycle and loosen the grip where you need to. Learning when to stay detached will liberate you in more ways than you can imagine. Remember, boundaries are a form of self-care too. You don\u2019t need to waste your time and energy explaining to other people what is or isn\u2019t right for you.",
+                "CosmicTip": "Cosmic tip: Boundaries are a form of self-care."
+            }
+        },
+        "12.04.2022": {
+            "aries": {
+                "Horoscope": "Not everything is #InstaPerfect, Aries, and that\u2019s the best part of the process. This is a time honouring your life as the gift that it truly is and living every moment to the fullest. *You* are the creator of this reality and you are manifesting miracles as you go along! This is also a time of wish fulfilment on the romantic front. You are connecting with your partner on a deeper level, and understanding what it means to accept one another despite the flaws. Consider this as your green flag to let go of any and all barriers so you can experience a new level of intimacy.",
+                "CosmicTip": "Cosmic tip: This is a time of wish fulfilment on the romantic front."
+            },
+            "taurus": {
+                "Horoscope": "The Universe wasn\u2019t punishing you, Taurus. It was simply preparing you. Preparing you to receive the love that was and has always been yours. Trust the timing of everything in your life. Trust that what you seek is seeking you and that things will come together in the most unexpected manner. Yes, this could mean wedding bells for some of you! As such, you\u2019ve got a tonne of good juju being sent your way at this time - a magnificent blessing that will ensure the success of your many ventures.",
+                "CosmicTip": "Cosmic tip: It\u2019s all coming together, beautiful!"
+            },
+            "gemini": {
+                "Horoscope": "Ebb and flow, ebb and flow, ebb and flow and ebb once again. The important thing to remember is that the wheel is constantly turning.\u00a0 Sometimes life offers us the saccharine fruits of our labour, and other times it compels us to drink a cup of poison and turn into an elixir. Look at it all as a part of the Leela that's unfolding, Gemini. You are not being punished, sweet child of the Universe. You are being prepared to become a container for the blessings that are coming your way.",
+                "CosmicTip": "Cosmic tip: You are prepared, not punished."
+            },
+            "cancer": {
+                "Horoscope": "This is a bittersweet time in the Cancer HQ. You\u2019re looking back at what took place somewhat nostalgically. At the same time, you\u2019re grateful for the completion of this cycle. Focusing on what you gained rather than what you lost will give you the strength you need to cross the threshold. On a mundane level, the cards are urging you to take stock of your finances. This is the perfect time to pay your debts off and hit the refresh button!",
+                "CosmicTip": "Cosmic tip: Pay your debts off."
+            },
+            "leo": {
+                "Horoscope": "When something becomes the source of your suffering, it\u2019s a good idea to pause and ask yourself if the fault lies in the way you are perceiving the situation. The simple exercise of looking within will help you understand that things are neither good nor bad, they simply are. The Universe is looking out for us at every moment. On the upside, you will find that something you didn't quite have the chance to explore on the romantic front is coming back into your life in a brand new form. It\u2019s a good idea to hit the refresh button and explore the idea of what you can co-create. To ensure the process is seamless, make sure you put your expectations on the table from the start.",
+                "CosmicTip": "Cosmic tip: Explore the possibility of what you can co-create."
+            },
+            "virgo": {
+                "Horoscope": "Virgo, you\u2019ve already spoken about what works for you, what you like, what brings a smile to your face\u2014in the most pleasant way. It\u2019s now time to start a dialogue about your boundaries, about the things that make you uncomfortable, and the things you\u2019d rather change about the given situation. A couple of things to keep in mind: 1. Don\u2019t let your need to be liked by others come in the way of truth-telling. 2. Those who are meant to be in your life will appreciate you for being the most authentic version of yourself.",
+                "CosmicTip": "Cosmic tip: This is a time of truth-telling."
+            },
+            "libra": {
+                "Horoscope": "*This* is your best life, Libra, and you are creating it as you go along! The week ahead sees you prepping for the glorious full moon in your sign by stripping away the illusions and breaking up with the dated beliefs. What you are focusing on: revamping your style, giving your palace a quirky do-over, falling in love with everything life has to offer, saying your affirmations out loud, doing the work and remembering that you are but Divinity in human form. But, that doesn\u2019t mean there aren't certain aspects of your reality that are \u2018out of order\u2019 right now. It simply means that you are consciously affirming all that is blessed and choosing joy over everything else.",
+                "CosmicTip": "Cosmic tip: Say your affirmations out loud!"
+            },
+            "scorpio": {
+                "Horoscope": "It\u2019s time to exercise your manifestation muscles. To ask for what you want from a space of clarity and conviction as you trust that what is yours will materialise in due course of time. *You* are the architect of your reality, Scorpio, and you\u2019re designing the life you\u2019ve always wanted as you go along. As and when you face delays and difficulties along the way, remember Abraham Hicks' golden words, \u201cIf something you want is slow to come to you, it can only be for one reason, you are spending more time focusing on its absence than its presence.\u201d",
+                "CosmicTip": "Cosmic tip: It\u2019s time to exercise your manifestation muscles."
+            },
+            "sagittarius": {
+                "Horoscope": "We\u2019re huge believers in the art of living in the present, however, every once in a while, we need to take a peek into the rearview mirror. To understand all the ways in which life\u2019s challenges have served as a catalyst for growth. Honour this as a time of inner alchemy. There\u2019s a message from the cards for those who have been in the midst of a legal battle too. Justice will be served, and in the most poetic manner. Surrender \u2018the how\u2019 and \u2018the why\u2019 to the Universe as you embrace patience as your superpower.",
+                "CosmicTip": "Cosmic tip: Honour this as a time of inner alchemy."
+            },
+            "capricorn": {
+                "Horoscope": "Capricorn, you are known for your ambitious side. You have the tendency to set high standards for yourself and challenge yourself to achieve the impossible. What the cards are reminding you of today is that there is no mountain you cannot climb when you set your mind to it. What\u2019s more, you\u2019ve always got the card of \u2018wish fulfilment\u2019 in your spread indicating that this is the perfect to send out a prayer into the Universe and ask for what you want with clarity and conviction. Remember, surrender too is a part of the co-creation process.",
+                "CosmicTip": "Cosmic tip: Understand the yin and yang of the manifestation process."
+            },
+            "aquarius": {
+                "Horoscope": "If you look at your life from the eyes of the Divine, you will realise that no experience is imperfect. Everything is as it should be, and everything is teaching you an important life lesson. Today, instead of letting your judgements colour your perception, bring the gift of unconditional love and acceptance to the table. What the cards want you to know: choosing the path of least resistance will make your progression effortless.",
+                "CosmicTip": "Cosmic tip: Everything is as it should be. Drop the resistance."
+            },
+            "pisces": {
+                "Horoscope": "Sometimes, it feels like Destiny is plotting and planning against us. That time is slipping through our fingers like sand and everything that we\u2019re working towards is only moving further away from us. But, this is far from the truth, Pisces. Trust the stirrings of your heart and where they are leading you towards. Great changes are being set into motion for you. It\u2019s time to accept that loss too is a part of the transformation process.",
+                "CosmicTip": "Cosmic tip: Accept your circumstances as they are."
+            }
+        },
+        "23.04.2022": {
+            "aries": {
+                "Horoscope": "Nobody is perfect, Aries! But, it's their flawsomeness that makes them a joy to be around. Something tells us you are learning to drop the judgements and appreciate the people in your life for who they are and all that they inspire within. As such, this is a time of joy and celebration. A time of saying 'yes' more than saying 'no'. A time of tapping into your inner social butterfly. PS: If your friends want to set you up with a worthy candidate, just play along!",
+                "CosmicTip": "Cosmic tip: Say yes more than you say no."
+            },
+            "taurus": {
+                "Horoscope": "Taurus, you're a multifaceted being. You have more talents than one can count on both fingers. So, step out of that self-imposed prison and give yourself the permission to explore the many aspects of you. Something tells us this is a time of uncovering hidden treasures within. Some of you may be thinking about investing in a passion project at this time. You are never fully prepared to take the leap of faith, yet you are. So, trust where you are being led towards, beautiful!",
+                "CosmicTip": "Cosmic tip: This is a time of uncovering hidden treasures within."
+            },
+            "gemini": {
+                "Horoscope": "Big things don't happen overnight, Gemini. You have to work towards them consistently. You've got to be willing to put in the work it takes. The good thing is, you're getting closer and closer to the desired destination. Don't be hung up on the road that takes you there, though. The Universe knows what's best for you and is actively creating circumstances that support your growth. Some of you may be frustrated with your current remuneration. Feel free to have a chat with your organisation about how you would like to be compensated. Things will turn in your favour provided you're willing to stand your ground.",
+                "CosmicTip": "Cosmic tip: Work towards your big goals in a consistent manner."
+            },
+            "cancer": {
+                "Horoscope": "There was a time you looked outside for validation. There was a time you wanted the world to tell you how far you have come. But, that is no longer your story, Cancer. You are a point in your journey where you believe in your magic fully and you know you are here to make great changes, starting with yourself. So, stay in your lane, commit to self-growth and get ready to realise your full potential. Something tells us you are becoming a force to be reckoned with!",
+                "CosmicTip": "Cosmic tip: Shine on, beautiful."
+            },
+            "leo": {
+                "Horoscope": "Change has been stirred up, Leo. Change has been stirred up for good. But, in order to transition to the other side, you will have to break up with the old. You will have to leave the past versions of you behind. You will have to let go of the idea of who should and shouldn\u2019t be. What Spirit is reminding you of in this moment: you are held and you are supported. Brave the unknown.\u00a0",
+                "CosmicTip": "Cosmic tip: It's time to leave the past versions of you behind."
+            },
+            "virgo": {
+                "Horoscope": "What if we said that all drama is self-created at that bliss in your natural state of being? It's time to stop marinating in your misery or repeating the story of what isn\u2019t working out and why. So, get out of your bubble. Go for a walk in a park. Have a chat with the squirrels. Feel the wind in your hair. Observe the shapes in the clouds. As you do, remember Abraham Hicks\u2019 golden words, \u201cYou are joy, looking for a way to express. It's not just that your purpose is joy, it is that you are joy. You are love and joy and freedom and clarity expressing itself.\u2019\u2019",
+                "CosmicTip": "Cosmic tip: You're being called to raise your vibrations, Virgo."
+            },
+            "libra": {
+                "Horoscope": "You have big plans, Libra. You want to take over the world, starting today. Get your POA in order and put in the work it takes. Something tells us you will look back at this period as a blessed time in your life. Some of you could be thinking about starting your own business too. Something that you've believed in wholeheartedly for a while now. Now is a lucky time to approach an investor who may be willing to support your business.",
+                "CosmicTip": "Cosmic tip: Now is a lucky time!"
+            },
+            "scorpio": {
+                "Horoscope": "Today, you're conflicted. You want to put yourself first, but you don't know how to. Start by doing away with the guilt. Start by doing away with the shame. Remember, if you don't look out for yourself, nobody else will. Some of you could be doubting your own intuitive abilities right now. But, you always know what's wrong before others do. Trust the signs you are being shown by the mysterious forces above.",
+                "CosmicTip": "Cosmic tip: Trust your intuitive abilities."
+            },
+            "sagittarius": {
+                "Horoscope": "But, there is no such thing as the perfect partner or the perfect love! That shouldn't stop you from putting yourself out there. From experiencing what this connection(s) you have manifested in your reality now. As such, you've got your head in the clouds right now, Sagittarius. A one-way ticket to the land of fantasies. Be cognisant of the ideas coming to you at this time. You have the potential to create pure magic.",
+                "CosmicTip": "Cosmic tip: Get on board the flight of fantasies, baby!"
+            },
+            "capricorn": {
+                "Horoscope": "Today, you're tired. You're tired of undermining your own potential. You're tired of standing in the way of your own progress. You're tired of repeating the story of failure and rejection. It's time for a quantum shift, Capricorn. It's time to shake things up in a way you never have. Consider repeating the following affirmation to give yourself that confidence boost: \"I am a force to be reckoned with.\"",
+                "CosmicTip": "Cosmic tip: It's time to write a new script."
+            },
+            "aquarius": {
+                "Horoscope": "It's like quantum physics, baby, when your bodies come together by the moonlight! Your soul recognises them from another time and space. From another dimension. From another reality altogether. They feel home and your greatest adventure, all at once. Today, you want to give it a real shot. You feel inspired to commit for the long haul. Trust where your heart is leading you towards. You are surrounded by magic in this moment, Aquarius.",
+                "CosmicTip": "Cosmic tip: Give it a real shot."
+            },
+            "pisces": {
+                "Horoscope": "Today, you're exhausted. Everything feels like a trigger and you want to set that to-do list in fire. Could it be that you have taken on more than you can handle, Pisces? Could it be that you have yet again set impossible standards for yourself? Word for the wise: it's time to get real with yourself about what you can and cannot do. So, call upon your soul tribe and give yourself the permission to ask for support. PS: You'll get through it!",
+                "CosmicTip": "Cosmic tip: Give yourself the permission to ask for support."
+            }
+        },
+        "26.04.2022": {
+            "aries": {
+                "Horoscope": "Ah! That feeling of watching life go full circle. You're at a point where you are actively pursuing an opportunity you thought would never come back into your life. Remember to be patient with the given venture, to nurture it with care and to show up for it in a consistent manner. Trust that with practice will find a way to triumph over the demons of complacency and self-sabotage.",
+                "CosmicTip": "Cosmic tip: You've just got to keep showing up for what you love."
+            },
+            "taurus": {
+                "Horoscope": "Life has a way of throwing unexpected curveballs your way, and this week the surprise could manifest in the form of a certain somebody you thought would never come back into your life! Yes, there is major potential here, Taurus, because both you and your circumstances have transformed drastically. So, let go of preconceived notions and allow yourself to explore the possibility of what you can create as you go further. An open heart will prove to be your accomplice at this time.",
+                "CosmicTip": "Cosmic tip: Allow yourself to explore the possibility of what you can create."
+            },
+            "gemini": {
+                "Horoscope": "This life of ours moves in spirals. We tend to find ourselves at the same point over and over, except our vantage point is different. No matter what you are going through right now, know that you have the strength, courage and fortitude required to triumph over it. But, before you go any further, ground yourself in the present moment. Ask yourself the right questions. It's important to take the time you need to integrate valuable life lessons.\u00a0",
+                "CosmicTip": "Cosmic tip: Take a moment to integrate the learnings before you go any further."
+            },
+            "cancer": {
+                "Horoscope": "But, heaven's got a plan for you, and it's been scripted to perfection! Instead of worrying yourself sick about the *how*, the *why* and the *what*, allow things to unfold as they must. You're being prepared for a wild ride across the multiverse, Cancer, and you're going to love every minute of it. In the realm of love, you may find yourself pining for somebody who's been rather unavailable. At times like these, you've got to get real with yourself. Are they absent because they don't value your connection or because they simply have too much going? Uncovering the truth will help you determine how much of yourself you want to give to this relationship.",
+                "CosmicTip": "Cosmic tip: Heaven's got a plan for you, beautiful!"
+            },
+            "leo": {
+                "Horoscope": "The snake bites its own tail as a reminder of the continuous cycle of death and rebirth. Once again, a door is closing in front of you. Once again, you\u2019re being asked to let go of something you have been deeply attached to. Yes, your sense of self will suffer as a result of this. Yes, you will feel stripped in more ways than you can imagine. On the upside, the journey you have undertaken now will help you move closer to your true self. Trust that your higher self is holding space for this major metamorphosis.",
+                "CosmicTip": "Cosmic tip: You're shedding the old, beautiful."
+            },
+            "virgo": {
+                "Horoscope": "There will be times when you will have to take the backseat and watch as Spirit annihilates it all. There will be times when you will have to allow that which is close to your heart to be taken away from you. But, there is no such thing as \u201cgood\u201d and \u201cbad\u201d experiences. It\u2019s all a part of the divine plan, Virgo. Part of the plan that's helping to clear the karmic baggage and move closer towards that coveted state of transcendence. Know that Spirit has got your back and is helping you transition with grace.",
+                "CosmicTip": "Cosmic tip: You've got this!"
+            },
+            "libra": {
+                "Horoscope": "You're tired. You're tired of being the only one who shows up. You're tired of being the only one who cares. The only one who is consistently trying to keep the tribe together. Today, you want to be selfish. You want to look out for yourself. To buckle your own seatbelt before anybody else's. The key is to learn to find a balance, Libra. Remember, just because you have history with them, does not mean you're obliged to continue to be there for them at the cost of your own well-being. This is your sign to put an end to certain chapters.\u00a0",
+                "CosmicTip": "Cosmic tip: Reassess your inner circle."
+            },
+            "scorpio": {
+                "Horoscope": "You're a wildflower, Scorpio. You're somebody who has always had a mind of their own. So, don't bother trying to adhere to a dated script, as this will only take you down the rabbit of misery. What you want to do instead is make your own rules. Discover your unique path. Find your own way to navigate life's many challenges. Remember, the more you are in tune with the song of your soul, the more you attract opportunities that will help you soar.",
+                "CosmicTip": "Cosmic tip: Follow your own unique path, beautiful."
+            },
+            "sagittarius": {
+                "Horoscope": "The trouble is, we want people to understand where we are and what we're going through without doing the dirty work of expressing ourselves to them. Could this be true in your case too? Are you shying away from having significant conversations because of the fear that you may be judged? Word for the wise: stop beating around the bush and get ready to tell it like it is. Remember, those who truly value the gift of your friendship will appreciate your honesty and actively work towards mending your relationship.",
+                "CosmicTip": "Cosmic tip: Perfect the art of telling it like it is."
+            },
+            "capricorn": {
+                "Horoscope": "This isn't the kind of love you see in the movies, Capricorn. It's equal parts messy and beautiful. Not to mention, mysterious too. So, give yourself the permission to explore what this connection means to you. Remember, there is no right and wrong. It is by breaking free from the shackles of conditioning that will be able to taste the elixir of freedom. Saturnians in the early stages of their relationship are being encouraged to let their hearts lead the way. Making yourself vulnerable is the equivalent of losing control for you, and that's okay. You'll never know what lies on the other side unless you tell them how you feel at this time.",
+                "CosmicTip": "Cosmic tip: Let your heart lead the way."
+            },
+            "aquarius": {
+                "Horoscope": "Daily reminder, Aquarius: You don\u2019t have to be anybody you don\u2019t want to be. That's right! you don\u2019t have to be anybody you don\u2019t want to be. Yes, the world will try to change you every day and in every way. Yes, Society will hand you a rulebook and weigh you down with unrealistic expectations. Dare to be a wildflower in a world of lilies and tulips ,nonetheless. What if we said living your truth is essential to the harmony of the divine matrix?",
+                "CosmicTip": "Cosmic tip: You were born to be a wildflower, baby!"
+            },
+            "pisces": {
+                "Horoscope": "So, what if you failed a hundred times, Pisces? The cards are reminding you that failure was a part of the game. A part of the game that has helped you become the most bulletproof version of yourself. So, no matter how you're feeling right now, take a shot of courage, pick up the pieces and give it another go. Remember, you are now backed with the kind of knowledge and experience you didn\u2019t have when you first began to walk on this path.\u00a0",
+                "CosmicTip": "Cosmic tip: Pick up the pieces and give it another go."
+            }
+        },
+        "28.04.2022": {
+            "aries": {
+                "Horoscope": "Your vision is clear, Aries. You know what you need to devote your energy to and what you need to steer clear of. Now, focus on taking sustained action. This is the only way to surmount the current set of challenges and make your way to the top. The opportunity to leave on a jet plane may also arise. No, you will not have the time or mental bandwidth to plan things to precision. But, who says spontaneity is a bad thing?",
+                "CosmicTip": "Cosmic tip: Send us a postcard!"
+            },
+            "taurus": {
+                "Horoscope": "But, how do you feel around them, Taurus? Tune into the wisdom of your body. Listen to what the discomfort has to say. You are learning when to put your needs first. You are learning that setting certain boundaries does not make you a bad person. You are learning that it is by pouring into your cup that you are able to give from a space of fullness to those around. So, drop the judgements and be gentle with yourself at this time.\u00a0",
+                "CosmicTip": "Cosmic tip: You are learning to put yourself first.\u00a0"
+            },
+            "gemini": {
+                "Horoscope": "They\u2019re your soulmate, Gemini, and there\u2019s no two ways about that. Your safe harbour in an otherwise stormy world. But, that doesn\u2019t mean they\u2019re *always* going to be tuned into your innermost thoughts. That doesn\u2019t mean they\u2019re *always* going to know how to love you when you\u2019re falling apart. Remember, communication is the key, beautiful. So, make yourself vulnerable as you express how you need to be held at this time. At the same time, be receptive to what they have to say. Given that we\u2019re stepping into eclipse season, they\u2019re going to need your tender love and care too.",
+                "CosmicTip": "Cosmic tip: You\u2019re learning how to communicate your needs, one day at a time."
+            },
+            "cancer": {
+                "Horoscope": "Cancer, you\u2019re a nurturer at heart. You always say the right things at the right time. You possess the uncanny ability to lift the spirits of those around. The not-so-good news is that the people in your circle don\u2019t always know how to hold space for you in the way that you do for them. Instead of being disappointed by their inability to show up for you, present them with a manual. Make yourself vulnerable and tell them how you need to be supported at this time. The Universe is holding space for you to bring about a seismic shift in your interpersonal relationships.",
+                "CosmicTip": "Cosmic tip: Tell them how you want to be held and supported."
+            },
+            "leo": {
+                "Horoscope": "If you\u2019re going to wait for the world to validate your dreams, you\u2019re going to be waiting for a long time, Leo. This chapter of your life is about taking chances\u2014lots of chances\u2014and reclaiming the reins that you relinquished in the process of trying to live up to other people\u2019s expectations. Don\u2019t expect to receive a pat on your back for every bold decision, though. Seeing you step into your power will intimidate those around, and that\u2019s okay. What you are being taught at this time: the importance of relying on your inner compass despite your circumstances.",
+                "CosmicTip": "Cosmic tip: It\u2019s time for bold moves, baby!"
+            },
+            "virgo": {
+                "Horoscope": "It doesn\u2019t matter what the question is, Virgo. Travel is what your soul is yearning for. The cards are pointing towards an unknown destination. A certain place that you've been yearning to visit for a while now. If spontaneous travel is not an option, plan your leave and make your bookings. While you\u2019re at it, connect with that friend who\u2019s always sharing #WanderLists on their Instagram. PS: If you\u2019ve recently started seeing somebody, now is the perfect time to plan a romantic getaway with them!",
+                "CosmicTip": "Cosmic tip: The cards are pointing towards an unknown destination."
+            },
+            "libra": {
+                "Horoscope": "But, what if you are not who you have been told to be? Give yourself the permission to explore the many dimensions within you and meet all the people you can potentially be. This is a time of self-exploration, Libra, and something tells us it\u2019s going to be a journey of a lifetime. What you want to devote your energy to: peeling away the layers. Destroying the dated script. Freeing yourself from the shackles of conditioning. What you want to steer clear off: going back to the old ways because of the comfort associated with the old paradigm.",
+                "CosmicTip": "Cosmic tip: It\u2019s time to meet all the people you can potentially be."
+            },
+            "scorpio": {
+                "Horoscope": "But, what are you doing for yourself, Scorpio? How are you showing up for *you* at this time? The cards are urging you to reclaim your time. To cultivate your passions. To pour your energy into things that bring you joy. This is the secret to raising your vibrations, beautiful. This is the secret to creating your own potion of ",
+                "CosmicTip": "sereni-tea"
+            },
+            "sagittarius": {
+                "Horoscope": "But, have *you* tried being honest about how you feel? About what\u2019s going on in your internal landscape? About how the memories of the past continue to haunt your present? The truth is, you want them. You always have, you always will. Give yourself the permission to explore what this connection means to you without worrying about what tomorrow may bring. Maybe you will have your fairytale ending. Maybe you will discover that this relationship is nothing more than a karmic connection that is helping you cleanse and purge the old patterns from your psyche. Either way, know that vulnerability will open closed doors.",
+                "CosmicTip": "Cosmic tip: Change the narrative. Communicate from a space of openness."
+            },
+            "capricorn": {
+                "Horoscope": "But, there\u2019s no such thing as the right or the wrong path. Life is a multiple choice question at this point, and you\u2019re being encouraged to take your chances. So, unbuckle your life jacket, beautiful. Allow yourself to freefall through space and time. Throw caution to the wind as you do. Something tells us you\u2019re about to peel off yet another layer of conditioning and move closer and closer to your true self.",
+                "CosmicTip": "Cosmic tip: You\u2019re ready for the journey of a lifetime."
+            },
+            "aquarius": {
+                "Horoscope": "Here\u2019s a sign, there\u2019s a sign, everywhere a sign-sign! The synchronicities are getting eerie by the minute, Aquarius, and you can\u2019t help but take notice. The conversations you\u2019re overhearing, the songs on the radio, the repeated numbers on your phone - they\u2019re all pointing towards something specific, and you know what that is. It\u2019s time to tell your inner sceptic aside to take a break and listen to the voice of the mystic within you instead. PS: Those who believe in magic will always find it.",
+                "CosmicTip": "Cosmic tip: Everywhere a sign-sign!"
+            },
+            "pisces": {
+                "Horoscope": "Who cares what the question is, Pisces? Travel is always the answer. The cards are pointing towards an unknown destination. A certain place that you've been yearning to visit for a while now. Let \u2018spontaneity\u2019 be your magic word at this time. The good news is, somebody in your inner circle is going to be more than willing to sojourn with you. On the professional/creative front, the cards are talking about movement. After a period of stagnation, you\u2019ll find that things are finally gaining momentum, beautiful. PS: Make the most of the openings available to you now.",
+                "CosmicTip": "Cosmic tip: Let \u2018spontaneity\u2019 be your magic word at this time.\u00a0"
+            }
+        },
+        "04.05.2022": {
+            "aries": {
+                "Horoscope": "Take a moment, Aries. Take a moment to look within. Weigh the pros and cons carefully. Assess the given situation from each side before you make a decision. This will help you do what\u2019s right for you and the collective. Considering we have stepped into the shadow of Mercury retrograde, communication issues are likely to resurface. There are certain conversations that cannot be avoided at this time. You owe it to yourself to speak your truth, beautiful.",
+                "CosmicTip": "Cosmic tip: Speak your truth."
+            },
+            "taurus": {
+                "Horoscope": "This is a time of channelling new ideas and inspiration, Taurus. This is a time of exercising your creative muscles and presenting the world with ideas that are likely to inspire change. Nothing is *too much* or *too revolutionary* at this time. Word for the wise: allow yourself to have fun at the drawing board as you shed the burden of self-imposed limitations.",
+                "CosmicTip": "Cosmic tip: You\u2019re channelling new ideas and inspiration."
+            },
+            "gemini": {
+                "Horoscope": "Oh, but there is always something to celebrate, Gemini! Oh-so-many reasons for you to pop the champagne as early as 10am! Joy and laughter promise to be a constant in your paradise today. What\u2019s more, some of you could be celebrating a landmark occasion like an engagement, an anniversary or a baby shower as well. Given that we\u2019re in the midst of the eclipse tunnel, you'll find that R&R are just as important. Just make sure you know when to call it a night so you can hibernate.",
+                "CosmicTip": "Cosmic tip: The Universe is giving you a multitude of reasons to pop the champagne today."
+            },
+            "cancer": {
+                "Horoscope": "Beware of playing the martyr card today, Cancer. Beware of trying to fix the lives of those around at the cost of your own well-being. Perfecting the art of putting your seatbelt on first is something you will be taught during the course of the eclipse season. You may also find yourself doubting your inner wisdom at this time. The vision and downloads you are receiving are meant to propel you further on your path. Trust what you\u2019re being shown, moon child.",
+                "CosmicTip": "Cosmic tip: Trust your inner wisdom, now and always."
+            },
+            "leo": {
+                "Horoscope": "If we told you that you are *fully* supported in the dream-weaving process, what are the miracles you would call in? How would you rewrite the script? Just a reminder, Leo: You are creating your Destiny, right now and in this moment. So, reclaim the power that has always been yours as you allow yourself to believe in the impossible. Oh, and one more thing! Make peace with the fact that you will always be *too much* for some people.",
+                "CosmicTip": "Cosmic tip: Now is the time to dream in HD and go after what once seemed impossible."
+            },
+            "virgo": {
+                "Horoscope": "You\u2019ve planted your seeds with loving intention, Virgo. It\u2019s now time for you to move to the next level. It\u2019s now time to take inspired action and focus on the many details required to make this project a success. What you need to keep in mind as you move forward is that there is no right and wrong way. It\u2019s best to follow your inner compass. This week, you\u2019re also being encouraged to tap into the wisdom of your body and practice self-care. Instead of following crash diets or making extreme changes that seldom prove to be sustainable, consider gentle exercise (daily) + more home cooked meals.",
+                "CosmicTip": "Cosmic tip: Take inspired action in the direction of your goals."
+            },
+            "libra": {
+                "Horoscope": "Sometimes, you just have to be the flaky friend, Libra, as much as you despise putting yourself in uncomfortable situations. The energy of the eclipse coupled with the shadow of Mercury retrograde is urging you to slow down and look inwards. Self-reflection is a big theme for you right now. Penning down your thoughts is also highly recommended at this time. Consider the following journal prompts: How can I cultivate my inner temple? How can I make room for more joy in my day-to-day life? What are the ways in which I can serve the world whilst staying in the energy of passion?",
+                "CosmicTip": "Cosmic tip: RSVP to a party for one."
+            },
+            "scorpio": {
+                "Horoscope": "You've been down this block, Scorpio. You've given your heart to those who have consistently had one foot outside the door. Considering that we're officially under the influence of Mercury retrograde's shadow, you may find past lovers crawling out of the woodwork. Beware of your tendency to go back to the old ways. Beware of your tendency to get caught up in emotional entanglements that do not serve you in the least.",
+                "CosmicTip": "Cosmic tip: Learn the importance of drawing boundaries whenever necessary."
+            },
+            "sagittarius": {
+                "Horoscope": "We're all prone to excesses of some kind, Sagittarius. Some find their salvation in a tub of salted caramel ice-cream. Others turn to psychedelics and substances. Today, you\u2019re being asked to step into observer mode and recognise where this tendency finds its roots. Learning that nothing in the outside world can fill the void within and that you are your own source of joy and bliss will help you follow the middle path at this time.",
+                "CosmicTip": "Cosmic tip: Follow the middle path, beautiful."
+            },
+            "capricorn": {
+                "Horoscope": "The energy of conflict surrounds you at this moment. You\u2019re having a hard time listening to your own thoughts and a harder time trying to express your point of view to other people. Start by letting go of the need to be understood. Retreat into your sacred space instead. Engage in activities that refuel you; that bring you joy. You\u2019ll know when it's time to go out into the world again.",
+                "CosmicTip": "Cosmic tip: Choose the path of defencelessness."
+            },
+            "aquarius": {
+                "Horoscope": "The emotionally unavailable game is so 2000-and-late, Aquarius. It\u2019s time to break up with the old ways of life pronto! What the cards are proposing is a paradigm shift in the realm of love and relating. An inner revolution, if you may. Consider Carrie Bradshaw\u2019s words as you sip on your morning latte: \u201cI\u2019m looking for love. Real love. Ridiculous, inconvenient, consuming, can\u2019t-live-without-each-other love.\u201d You know what they say, honey? It\u2019s *not* that complicated.",
+                "CosmicTip": "Cosmic tip: Raise a toast to the demise of \u2018complicated relationships\u2019."
+            },
+            "pisces": {
+                "Horoscope": "It\u2019s easy to feel cornered. It\u2019s easy to feel like it's you against the world. But, the truth is, you have been shying away from communication. Word for the wise: let your side of the story be known. Ask for help and allow yourself to receive. What you will realise in the process is that things are not quite as complicated as you made them out to be in your head.",
+                "CosmicTip": "Cosmic tip: Ask for help and allow yourself to receive it."
+            }
+        },
+        "05.05.2022": {
+            "aries": {
+                "Horoscope": "Given that we're in the midst of Taurus season, you're in the mood to stay indoors and prioritise self-care. Let's start by editing that to-do list, shall we? The cosmic weather is supporting you to slip into yin mode. So, consider lazing in your bed with a face mask on, reading your favourite fashion magazine and listening to love songs on loop. Oh, and that Chardonnay you've been saving? Now is the perfect time to bring it out of the cabinet!",
+                "CosmicTip": "Cosmic tip: Slip into yin mode."
+            },
+            "taurus": {
+                "Horoscope": "There's a point in our journey where we recognise that the narratives we've grown up with are not the narratives around which we feel inspired to build our lives. This is your cosmic cue to burn the dated script as you begin to write one that feels authentic to you. Yes, you can create a life for yourself that supports both financial growth and freedom, Taurus. Know that you are at a turning point right now and that the choices you make now will define your Destiny.",
+                "CosmicTip": "Cosmic tip: Pay attention to the choices you have right now."
+            },
+            "gemini": {
+                "Horoscope": "'Innovation' is the magic word, Gemini. You are at a point in your journey where you recognise that doing the same things in the way that you have been will yield standard results. So, you want to start an inner revolution. You want to shake things up for the better. Remember, those around you may or may not be able to get on board with the proposed changes, and that's okay. One step at a time, beautiful. On a side note, if you've been shamelessly flirting with somebody over text, it's time to take things offline.",
+                "CosmicTip": "Cosmic tip: An inner revolution may be on the cards."
+            },
+            "cancer": {
+                "Horoscope": "You're at a point in your journey where the palace you've created is beginning to feel like a prison. We all grow out of old versions of ourselves. We all grow out of the dreams that once propelled us forward, and that's okay. Such is the natural progression of life, beautiful. What you're being asked to do today is pause and take a deep breath. Assess all the things that are no longer working for you. All the ways in which you feel called to rewrite the script. Understanding that the disillusionment is serving a higher purpose too will free you in more ways than you can imagine.",
+                "CosmicTip": "Cosmic tip: It's okay to grow out of past version of yourself."
+            },
+            "leo": {
+                "Horoscope": "This body of yours is a temple, Leo. But you didn't need us to tell you that, did you now? Today, you're being encouraged to reassess the ways in which you are interacting with your sacred vessel and how you can make these interactions pleasant for yourself. Cutting out the toxic substances is a good place to start. Then, begin to introduce the kind of foods and supplements that heal you and raise your vibrations. When it comes to exercise, take the middle path. It's a good idea to challenge yourself as long as you're not being harsh.",
+                "CosmicTip": "Cosmic tip: Redefine your relationship with your body."
+            },
+            "virgo": {
+                "Horoscope": "Baby steps, Virgo. You've taken a leap of faith in the right direction. Know that sustained action will support the growth of the given project. When it comes to love and relationships, you're being asked to cultivate patience. Remember, nobody gives us a manual on how to deal with other people. We just have to learn on the job, beautiful.",
+                "CosmicTip": "Cosmic tip: Cultivate patience."
+            },
+            "libra": {
+                "Horoscope": "Uh-oh, Libra! You've done it again. You've said 'yes' every time you've wanted to scream 'no'. You're trying to bite more than you can chew. Understand where your need to please everybody is stemming from. Just for today, recalibrate the scales. Just for today, allow others to be disappointed. By freeing yourself from the burden of expectations, you will find true freedom.",
+                "CosmicTip": "Cosmic tip: Check with your internal compass before you say 'yes'."
+            },
+            "scorpio": {
+                "Horoscope": "You did it again, Scorpio. You said yes to everything that came your way. You forgot to check in with your internal compass first. If overextending yourself has become your idea of extreme sports, it's time to hit the pause button. It's time to simplify your to-do list and declutter your schedule. By letting go of the need to be productive at all times, you will be able to journey back to yourself, beautiful.",
+                "CosmicTip": "Cosmic tip: Simplify your to-do list"
+            },
+            "sagittarius": {
+                "Horoscope": "Sagittarius, you're feeling imprisoned. Yes, this is the life you always wanted. However, you have experienced many deaths and rebirths since you first started out that you no longer resonate with the dreams you dreamed when you were younger. So, give yourself the permission to peel yet another layer. To ditch the dated script and liberate yourself from the expectations that are keeping you stuck. The Universe is supporting you in your mission to take a step in the direction of true freedom.",
+                "CosmicTip": "Cosmic tip: Give yourself the permission to grow out of the dreams you dreamed when you were little."
+            },
+            "capricorn": {
+                "Horoscope": "Your head is a crowded place. There are a multitude of voices fighting to make their way to the centre-stage so they can repeat the story of limitations and remind you of all the people you will never be and all the things that are out of your league. But, you know now that these voices are as real as the fairy tales you've grown up with. So, begin to separate the real from what's merely an illusion. Remembering Osho's quote 'The mind: a beautiful servant, a dangerous master' will give you the strength and courage you need at this time.",
+                "CosmicTip": "Cosmic tip: Into the field of infinite possibilities!"
+            },
+            "aquarius": {
+                "Horoscope": "Pay attention to your energy and how you feel after certain interactions. If there is a place or person that's constantly draining you, it's time to reassess your relationship with them. Drawing certain boundaries and putting yourself first is something you're having to learn the hard way, Aquarius. When it comes to finances, practice honesty. Ask for what it is owed to you despite your discomfort surrounding the topic. This is the only way to clear the blockages you have been facing.",
+                "CosmicTip": "Cosmic tip: Ask for what is owed to you."
+            },
+            "pisces": {
+                "Horoscope": "Oh, but you\u2019d rather talk to the moon, Pisces! You\u2019d rather retreat to your safe harbour and listen to Adele on loop. Release the need to be \u2018productive\u2019 today and let your imagination run wild. Something tells you are in the process of bringing more art, beauty and refinement into this big, bad world. There\u2019s good news for those who\u2019ve been yearning to start a family too. The Gods and Goddesses of Fertility are in the boudoir with you. Get to work pronto!",
+                "CosmicTip": "Cosmic tip: Let your imagination guide you."
+            }
+        },
+        "07.05.2022": {
+            "aries": {
+                "Horoscope": "Not everything is going according to the plan, Aries, and that can only be a good thing. Give yourself the permission to grow out of the people and the places that have served their purpose in your life. Transitions can be uncomfortable. The good thing is, your higher self is walking you to a better place, right now and in this moment. If you\u2019re in the middle of a separation, know that you can end things amicably as long as you are operating from a place of higher wisdom.",
+                "CosmicTip": "Cosmic tip: Give yourself the permission to grow out of the people and the places that have served their purpose in your narrative."
+            },
+            "taurus": {
+                "Horoscope": "The sacred texts and the religious scriptures will only get you so far, Taurus. This is a time for you to turn inwards for guidance. To trust the wisdom of the deity within. Start by placing a mirror at your altar. Every time you look at your reflection, remember your higher self. Feel their warmth. Feel their embrace. Direct experience is the only way to elevate your consciousness.",
+                "CosmicTip": "Cosmic tip: Trust the wisdom of the deity within."
+            },
+            "gemini": {
+                "Horoscope": "You\u2019re learning to strike a balance, Gemini. You\u2019re learning that what you do for work is not who you are. So, make time for your passions alongside your professional pursuits. Sign up for a pottery class, try your hand at comedy, join a book club. Here\u2019s a simple rule you want to keep in mind as you move forward and onwards: if it brings a smile to your face, it means you are on the right track.",
+                "CosmicTip": "Cosmic tip: Make time for your passions alongside your professional pursuits."
+            },
+            "cancer": {
+                "Horoscope": "So, it didn\u2019t work out, Cancer! It\u2019s not the end of the world. Bring your attention to the lessons learned. Be grateful for what you gained rather than complaining about what you supposedly lost out in the process. Remember, you are the creator of your reality. The more you focus on joy\u2014the more you focus on love\u2014the more you will call in the energies that raise your vibrations and support your growth.",
+                "CosmicTip": "Cosmic tip: Bring your attention to the lessons learned."
+            },
+            "leo": {
+                "Horoscope": "Given that we\u2019re under the influence of Mercury retrograde's shadow, you may find past lovers crawling out of the woodwork. Beware of your tendency to go back to the old ways. Beware of your tendency to get caught up in emotional entanglements that do not serve you in the least. What you want to do instead is put a full stop on certain chapters. In the realm of work, you\u2019re being encouraged to hustle hard. Now is not the time to let the ebb and flow of the emotional landscape come in the way of the seeds of change you are planting in the world.",
+                "CosmicTip": "Cosmic tip: Know where to put a full stop."
+            },
+            "virgo": {
+                "Horoscope": "The fall will always be followed by the rise. Such is the nature of life in the physical realm of existence. So, don\u2019t let these minor disappointments disillusion you. You have a long way to go from here, and you\u2019re just getting started, Virgo. What you want to focus on this weekend: rest and rejuvenation. Your body needs time to process all that you have recently gone through.",
+                "CosmicTip": "Cosmic tip: Make time for rest and rejuvenation."
+            },
+            "libra": {
+                "Horoscope": "This body of yours is a temple, Libra. But you didn't need us to tell you that, did you now? Today, you're being encouraged to reassess the ways in which you interact with your sacred vessel and how you can make these interactions pleasant for yourself. Cutting out the toxic substances is a good place to start. Then, begin to introduce the kind of foods and supplements that heal you and raise your vibrations. When it comes to movement and exercise, take the moderate approach. Find a way to challenge yourself without being harsh.",
+                "CosmicTip": "Cosmic tip: Redefine your relationship with your body, beautiful."
+            },
+            "scorpio": {
+                "Horoscope": "The trouble is, we hold on and we hold on. And then, we hold on some more. Could this be true in your case too? Do you find yourself constantly worrying about how money and resources will make their way to you? Here\u2019s something to keep in mind when you are giving the lack more power than it deserves: a tight fist is unable to make space for Grace. So, move into a space of surrender, beautiful. Breathe out the fear. Breathe in the faith. If the law of abundance is anything to go by, then everything you put into the Universe will come back to you manifold.",
+                "CosmicTip": "Cosmic tip: Make that metaphorical journey from lack to abundance."
+            },
+            "sagittarius": {
+                "Horoscope": "Now is *not* the time to be realistic, Sagittarius. Take all kinds of risks. Believe in the impossible. Given that Lady Luck is working with and through you, you will find a way to build bridges and open golden gates. As such, this is a day of synchronicities and serendipitous encounters too. So, trust the stirrings of your heart and where they are leading you to. Just make sure you *don\u2019t* show up in that frumpy old top. You want to look like the most dazzling version of yourself as you say yes to the opportunities that come knocking at your door.",
+                "CosmicTip": "Cosmic tip: Step out looking like your most dazzling self today!"
+            },
+            "capricorn": {
+                "Horoscope": "The trouble is, we waste so much time worrying about \u2018the how\u2019 and \u2018the why\u2019. We repeat the story of failure and convince ourselves that we will never make our way to the top. But, that is far from the truth, Capricorn. What you want to remember now and for the rest of your life is that what you seek is seeking you. So, wear your shiniest suit (or kimono!) and your most dazzling smile. There are miracles waiting in the wings for you. You just have to learn to trust the law of divine timing.",
+                "CosmicTip": "Cosmic tip: The Universe is working with not against you."
+            },
+            "aquarius": {
+                "Horoscope": "You are blessed with the power of free will, Aquarius. In other words, you have what it takes to swallow the poison that is being poured into your chalice and turn into a sweet nectar. You possess the fortitude required to transform every breakdown into a breakthrough. It all comes down to how you will approach the given circumstances. It\u2019s a good idea to remember that Spirit is working with and not against you.",
+                "CosmicTip": "Cosmic tip: Turn the poison in a sweet nectar."
+            },
+            "pisces": {
+                "Horoscope": "This is a time to rise from your ashes, Pisces. This is a time to rise from the ashes of taboos, limitations and constraints. To break free from the shackles of conditioning and remember who you are. You came here with a higher purpose, beautiful. An inner knowing that you are meant to start a revolution. So, plant the seeds of change in the world. Reclaiming the reins you once relinquished is going to be a big theme for you right now.",
+                "CosmicTip": "Cosmic tip: The Universe is holding space for you to make a paradigm shift."
+            }
+        },
+        "08.05.2022": {
+            "aries": {
+                "Horoscope": "What you *don\u2019t* want to do today: engage with dodgy characters, give that toxic ex another chance or let somebody take you for a ride. What you want to do: check price tags twice, read offer documents carefully and ensure you\u2019re sending that text or email to the person you want to send it to. With Mercury out to make mischief, the unexpected is expected right now.",
+                "CosmicTip": "Cosmic tip: Read the offer document carefully, boo."
+            },
+            "taurus": {
+                "Horoscope": "Today, the cards are urging you to tap into the gift of the gab, to find new ways to express yourself through words and to experiment with both poetry and prose. There\u2019s something beautiful waiting to be born through you, Taurus. Some of you may be rethinking your social media game as well. \u2018Authenticity\u2019 is your power word, beautiful. Staying true to yourself will help you win the brownie points of your fans and followers.",
+                "CosmicTip": "Cosmic tip: Experiment with both poetry and prose."
+            },
+            "gemini": {
+                "Horoscope": "You\u2019ve spent enough time at the drawing board, Gemini. It\u2019s time to get back to the field. Action + initiative will take your places right now. Remember, the journey you have undertaken is yours and yours alone. If you want to be successful, don\u2019t try to replicate somebody else\u2019s formula. Those who are struggling with abundance blocks are being guided to stand up for themselves. Ask for what is owed to you. People will always look out for themselves first.",
+                "CosmicTip": "Cosmic tip: Action + initiative will take your places right now."
+            },
+            "cancer": {
+                "Horoscope": "Just because you\u2019ve known them for an eternity, doesn\u2019t mean you will always share the same views on love, life, and everything in between. Let there be room for disagreements. This way, you can both express your points of view whilst honouring the differences. What the Universe is offering you right now is the opportunity to learn and grow.",
+                "CosmicTip": "Cosmic tip: Honour the differences too."
+            },
+            "leo": {
+                "Horoscope": "Cupid has a way of striking unexpectedly. You would know all about that, wouldn\u2019t you now? This chapter of your life is about taking yet another step towards that promising future whilst getting to know your partner\u2019s tribe better. What you will discover in the process is that you are more similar than you are different. Single Leos are being reminded of the power of divine timing. Say yes to the opportunities that are coming your way now despite the package in which they are being presented to you. Something tells us you are going to be pleasantly surprised.",
+                "CosmicTip": "Cosmic tip: Get to know your partner\u2019s tribe better."
+            },
+            "virgo": {
+                "Horoscope": "Your desires are sacred and play an integral in maintaining the harmony of the Divine Matrix. However, every time a desire gets fulfilled, another one arises, waiting in the wings for your undivided attention. It\u2019s an endless loop, really. Some might even call it a vicious cycle. Today, you\u2019re being asked to give these desires the place they deserve at your altar without looking at happiness as a destination. Count the blessings you have now. The people, places and situations that are bringing you joy today. There are oh-so-many things to be grateful for when you stop to think about it!",
+                "CosmicTip": "Cosmic tip Count your blessings, Virgo."
+            },
+            "libra": {
+                "Horoscope": "Do yourself a favour and go off the script. Break up with the idea of perfection. Give yourself the permission to make a few mistakes. This is the only way to discover newer aspects of your being, Libra. As such, you'll find that your creative juices are flowing freely today. Tap into the steady stream that is available to you. Reconnecting with your inherent wildness will inspire poetry, prose and movement.",
+                "CosmicTip": "Cosmic tip: You are so much more than you allow yourself to believe!"
+            },
+            "scorpio": {
+                "Horoscope": "There was a time you didn\u2019t trust yourself enough. There was a time you let your head get in the way of your heart. There was a time when you worried about how your family members would perceive the choice you make. But, you\u2019re experiencing an inner revolution, Scorpio, one that\u2019s inspiring you to honour your truth and fearlessly walk your path. Onwards and upwards, beautiful! Something tells us this is the start of many wonderful things that are yet to come.",
+                "CosmicTip": "Cosmic tip: It\u2019s time to fearlessly walk your path."
+            },
+            "sagittarius": {
+                "Horoscope": "Could it be that we blow the bad things out of proportion and constantly repeat the tales of tragedy and victimhood? Could it be that we wear suffering like a badge of honour when we step out into the world? The truth is, like attracts like, Sagittarius. The more we focus on the pain, the more we give it control. So, just for today, change the script a little. Bring a little more song and a little more dance into the narrative. What the cards want you to remember is that you are where you are supposed to be and that your share of blessings will be delivered to you in due course of time.",
+                "CosmicTip": "Cosmic tip: Like attracts like, beautiful."
+            },
+            "capricorn": {
+                "Horoscope": "Today, you\u2019re feeling the burden of it all: the unfulfilled dreams, the unspoken words, the letters that never made it to the post. The past is weighing you down heavily, but only so that you can be aware of what needs to be healed and what needs to be released at this time. So, retreat into your sanctum and do the inner work. Spirit is supporting you to hit the reset button and start over in every sense of the word.",
+                "CosmicTip": "Cosmic tip: Be aware of what is coming up to be released, Capricorn."
+            },
+            "aquarius": {
+                "Horoscope": "We get it, Aquarius. You\u2019d rather go with the flow. You\u2019d rather *not* have the difficult conversations you\u2019re being called to right now. But, you don\u2019t need us to tell you about the perils of being in a relationship that exists in your mind alone. As such, you may find that your head is in the clouds today. You can\u2019t tell the difference between what\u2019s real and what\u2019s merely an illusion. It\u2019s best to put off important decisions until clarity prevails.",
+                "CosmicTip": "Cosmic tip: Have the difficult conversations you need to have right now."
+            },
+            "pisces": {
+                "Horoscope": "You\u2019re exhausted, Pisces. You\u2019re tired of giving your energy to those who do not value your presence. You\u2019re tired of trying to heal and fix other people. It\u2019s time for you to redirect your energy towards yourself. To pay attention to your body and your breath. To engage in the activities that make you feel nurtured on a soul level. Learning to put yourself first takes practice. One step at a time, beautiful.",
+                "CosmicTip": "Cosmic tip: Learn to fill your own cup first."
+            }
+        },
+        "09.05.2022": {
+            "aries": {
+                "Horoscope": "We get it, Aries! It\u2019s been a long and lonely road with one heartbreak after another. Should that stop from believing in the impossible or trusting that the love you desire and deserve is just around the corner? Open your heart *and* your mind, beautiful. Oh, and one more thing! Don\u2019t shy away from having the conversations you need to have right now.",
+                "CosmicTip": "Cosmic tip: The Universe has got a plan for you."
+            },
+            "taurus": {
+                "Horoscope": "You\u2019re waking up with a spring in your step and a song in your heart. This is what it feels like to be bitten by the love bug, Taurus. Just make sure they\u2019re on the same page about the future of this relationship as you are. Given that you are feeling *this* creative today, it\u2019s a good idea to direct your energy towards artistic pursuits. Spend time at the drawing board, beautiful. Even better, experiment with movement therapy or sign up for a dance class.",
+                "CosmicTip": "Cosmic tip: You\u2019re waking up with a song in your heart."
+            },
+            "gemini": {
+                "Horoscope": "Being with them feels like an adventure of sorts, Gemini\u2014there\u2019s always more to discover; more layers to uncover\u2014and that\u2019s what keeps the mystery alive for you. Just make sure you\u2019re allowing yourself to be just as vulnerable when you\u2019re together. The mantra you want to adopt this week: less head, more heart. Single Twins, you are being reminded that now is a good time to say yes more than you say no. Don\u2019t let your preconceived notions keep you from discovering what you can co-create with the other(s).",
+                "CosmicTip": "Cosmic tip: Here\u2019s to love that promises to stand the test of time."
+            },
+            "cancer": {
+                "Horoscope": "You want it all, Cancer: the house with pool, the vacation homes, half-a-dozen dogs + children of your own. You know exactly who you want to live the dream with too. Just make sure they\u2019re on the same page as you are about the future of this relationship, beautiful. Having an open and honest conversation about your expectations is highly recommended right now.",
+                "CosmicTip": "Cosmic tip: Have the talk."
+            },
+            "leo": {
+                "Horoscope": "Given that we\u2019re in the shadow of Mercury retrograde, communication issues could crop up unexpectedly. You\u2019ll either find yourself overreacting when you\u2019re triggered or sliding things under the carpet. But, you don\u2019t need us to tell you that these are unhealthy coping mechanisms, Leo. So, flip the switch. Think of every difference as an opportunity to grow. Share how you feel about the given subject, whilst being open to what the other(s) has to say. This is the only way to grow in love, beautiful.",
+                "CosmicTip": "Cosmic tip: Differences are an opportunity to grow."
+            },
+            "virgo": {
+                "Horoscope": "What you want to do this week: say \u2018yes\u2019 more than you say \u2018no\u2019, especially if the opportunity to travel spontaneously arises. You never know who you might meet whilst exploring the unexplored. That\u2019s right, Virgo! A holiday romance is on the cards for you right now\u2014the kind that promises to reignite your lust for life. Couples who\u2019ve been feeling like they\u2019re in a rut are being encouraged to book their tickets too. Sometimes, you need a little bit of that mountain breeze to remind you that you are where you need to be and that everything is perfect in your world.",
+                "CosmicTip": "Cosmic tip: A holiday romance is on the cards!"
+            },
+            "libra": {
+                "Horoscope": "You\u2019re stuck in your head, Libra. Instead of looking for reasons to say yes, you\u2019re perpetually saying no. Remember, you can\u2019t manifest the romance you desire and deserve by sulking in your boudoir and complaining about how other people have it good. You just have to open your heart and put yourself out there despite the risks this entails. The Universe has got your back and will provide you with the exact circumstances required for your growth.",
+                "CosmicTip": "Cosmic tip: What if you chose to open your heart instead?"
+            },
+            "scorpio": {
+                "Horoscope": "But, it doesn\u2019t have to be chaotic, Scorpio. A separation does not always have to wreak havoc. This is your cue to stop operating from the old paradigms, and do right by yourself and your partner. So, honour your time spent together in your own special way as you bid adieu to them for the final time. What the cards want you to remember is that there is a light at the end of the tunnel and you are making your way to a space of wholeness again.",
+                "CosmicTip": "Cosmic tip: There is a way to end things amicably."
+            },
+            "sagittarius": {
+                "Horoscope": "Being with them is all kinds of magical, Sagittarius. Your time together feels like the kind of adventure you cannot always put into words. So, it\u2019s easy to feel like you don\u2019t know where they end and you begin. What the cards are warning you against is getting entangled in their emotions. Ask yourself how you can hold space for them to talk about their trauma without making it your sole mission to heal/fix them. Everybody is on a journey of their own, beautiful. Everybody is gifted with the divine intelligence required to navigate the trials and tribulations synonymous with the physical plane of existence.",
+                "CosmicTip": "Cosmic tip: Understand where you end and others begin."
+            },
+            "capricorn": {
+                "Horoscope": "When you\u2019ve experienced one heartbreak after another, it\u2019s easy to feel like it\u2019s you against the world. But, this is not true in your case, Capricorn. Beware of the need to isolate yourself or add to your trauma. What you want to do instead is trust that you have the divine protection you need + the support of your tribe members. So, tell them how you want to be loved at this time and what they can do to make your journey easier.",
+                "CosmicTip": "Cosmic tip: Open yourself to the help and support you require."
+            },
+            "aquarius": {
+                "Horoscope": "Everything is energy, Aquarius. Every thought, word and intention we put out there creates a ripple of change across the multiverse. This brings us to the question: what are the seeds you are planting today? Know that it\u2019s safe for you to open your heart again. Know that it\u2019s safe for you to call in the love you desire..",
+                "CosmicTip": "Cosmic tip: It\u2019s safe for you to love again, beautiful."
+            },
+            "pisces": {
+                "Horoscope": "Don\u2019t put yourself in neat little boxes, Pisces. You are so much more than you allow yourself to believe you are. What the cards want you to remember this week is that you are in the process of self-discovery and that you are just getting started. In the realm of love and romance, you\u2019re being guided to take things slow. Revel in the process of getting to know them. You have a lifetime ahead of you to figure out what \u2018the future\u2019 will look like!",
+                "CosmicTip": "Cosmic tip: Be in the here and now, beautiful."
+            }
+        },
+        "10.05.2022": {
+            "aries": {
+                "Horoscope": "Today, you\u2019re feeling the burden of it all: the unfulfilled dreams, the unspoken words, the letters that never made it to the post. But, could it be that the Universe wasn\u2019t punishing you? It was merely preparing you to receive what you have asked for. Feel the unresolved feelings in their entirety as you can surrender them for good. Remember, the eclipse season is providing us with a powerful portal to make that paradigm shift we have been thinking about.",
+                "CosmicTip": "Cosmic tip: Feel the unresolved feelings in their entirety"
+            },
+            "taurus": {
+                "Horoscope": "Think of this as a pause. An interlude. A comma in an otherwise complex sentence. Everything is as it should be and everything is unfolding as per the grand plan. So, release the false sense of control as you *allow* the forces to come through. Here\u2019s a couple of things you want to keep in mind as you cross the threshold: #1 You are being prepared, not punished. #2 The Universe is a kind and loving parent that\u2019s always looking out for you.",
+                "CosmicTip": "Cosmic tip: The Universe is a kind and loving parent that\u2019s always looking out for you."
+            },
+            "gemini": {
+                "Horoscope": "We tend to have fixed ideas about who we are and our place in the world and these ideas sometimes interfere with the possibility of all the people we can be and all the things we can create. So, release the false notions of 'the self' as you step into the quantum field. Oh, the things you will discover once you step into the unknown!",
+                "CosmicTip": "Cosmic tip: Give yourself the permission to explore the possibilities of who you can be."
+            },
+            "cancer": {
+                "Horoscope": "What you don't want to do today: spend mindlessly or treat everybody in the team on a whim. What you do: focus on saving rather than splurging, engage in philanthropic activities and extend your support towards a worthy cause. If the law of karma is anything to go by, everything you put into the Universe (and we mean *everything*) will come back to you manifold!",
+                "CosmicTip": "Cosmic tip: Be a good Samaritan."
+            },
+            "leo": {
+                "Horoscope": "It's easy to shove things under the carpet; to pretend like everything is perfect when it is clearly not. But, this kind of toxic positivity is affecting you more than anybody else. Word for the wise: state your expectations. Tell them what's going on underneath the surface even though it makes you feel vulnerable. Remember, communication is key to building a healthy relationship.",
+                "CosmicTip": "Cosmic tip: State your expectations from the start."
+            },
+            "virgo": {
+                "Horoscope": "Here's a wild thought, Virgo: what if it works out instead? Lady Luck is on your side today and she promises to help you power through the most challenging circumstances. So, throw caution to the wind and you step in the unknown. Trust that golden doors of opportunities will open for you if you have put in the work.",
+                "CosmicTip": "Cosmic tip: Get ready to slay, beautiful."
+            },
+            "libra": {
+                "Horoscope": "If you've been looking for the perfect apartment (slash villa), prepare to get lucky this month! Something tells us what you're seeking is seeking you as well. Those who've already found their dream home, could be in the process of getting the paperwork sorted. The sooner you get the mundane stuff out of your way, the sooner you will be able to dive into the tasks you take most pleasure in: redecorating the space to suit your excellent taste. PS: For some of you, cohabitation with someone you love could also be on the cards!",
+                "CosmicTip": "Cosmic tip: Prepare to find your dream home."
+            },
+            "scorpio": {
+                "Horoscope": "Something's weighing you down, Scorpio, and you can't quite put a finger on it. Take a moment to analyse where the unrest is stemming from. Could it be that the reason you're feeling stifled is not because of other people but because of your own expectations? It's time to free yourself from the dated script, beautiful. It's time to bring more play into the narrative. Oh, and one more thing! Perfection is overrated. It's okay to trip and fall along the way.",
+                "CosmicTip": "Cosmic tip: Free yourself from the dated script."
+            },
+            "sagittarius": {
+                "Horoscope": "There are times in our lives when everything feels like an uphill task and there's a voice in our heads that tells us the hard work we\u2019re putting in isn\u2019t going to amount to anything. What you don't want to do today: listen to the chatter. What you want to do: put in the work. Hustle hard. You are on the right track, Sagittarius. Begin to derive pleasure from the journey rather than being hung up on the destination. Oh, and if the opportunity to learn under the guidance of a mentor you look upto comes your way, just say yes!",
+                "CosmicTip": "Cosmic tip: Derive pleasure from the journey rather than being hung up on the destination."
+            },
+            "capricorn": {
+                "Horoscope": "We're all prone to excesses of some kind. Some find their salvation in a tub of salted caramel ice-cream. Others turn to psychedelics and substances. What is your gateway drug, Capricorn, and how do you choose to escape the mundane when it all gets too much? Observe the unhealthy habits and self-sabotaging patterns that are resurfacing right now. Instead of descending them a downward spiral, choose the path of defencelessness. Listen to what your addictions have to say. Something tells us you're closer to breaking free from the old patterns than you think you are.",
+                "CosmicTip": "Cosmic tip: Listen to what your addictions have to say."
+            },
+            "aquarius": {
+                "Horoscope": "Your head and heart are in conflict, Aquarius! Your emotions keep getting in the way of what you are supposed to do; what is right for both you and 'the collective'. So, find a way to make the right decision without being so harsh on yourself. If you're having trouble deciding what that might be, close your eyes and journey inwards. Your inner guide is yearning to start a dialogue with you today.",
+                "CosmicTip": "Cosmic tip: Journey inwards, beautiful."
+            },
+            "pisces": {
+                "Horoscope": "Pisces, we have a choice. We always have a choice between turning bitter as time goes by or transforming the poison poured into our chalice into a sweet elixir. Something tells us you're a brave heart and that you'll choose the latter no matter what. What Spirit wants you to know is that you are held and supported right now. Trust that you will emerge from this experience as a stronger, more resilient version of yourself.",
+                "CosmicTip": "Cosmic tip: Transform the poison into a sweet elixir for growth."
+            }
+        },
+        "19.06.2022": {
+            "aries": {
+                "Horoscope": "There are times in our lives when nothing makes sense. The world as we know it ceases to exist. The dreams and desires that once fuelled no longer fit into the grand plan. Take the time you need to mourn the loss of the old but don\u2019t forget how close you are to the new dawn. The cards are reminding you that this is a stellar opportunity to throw every rulebook out of the window and explore the infinite possibility of what you can co-create with the Universe.",
+                "CosmicTip": "Cosmic tip: Remember how close you are to the new dawn!"
+            },
+            "taurus": {
+                "Horoscope": "You're trying to find that missing piece of the puzzle. That perfect counterpart who possesses the supernatural ability to fill the void within or a job that will continuously make you feel optimistic. Spoiler alert: the perfection you are looking for does not exist. Not outside of yourself. So, be here, be now. Appreciate the flawsomeness of it all. Find order in chaos. As long as you remember that you are your own source of joy, bliss and happiness, you will get through whatever challenges life is throwing at you right now.",
+                "CosmicTip": "Cosmic tip: You are the one you\u2019ve been looking for, Taurus."
+            },
+            "gemini": {
+                "Horoscope": "What awaits you on the other side of the storm: joy, bliss and celebration. You are reuniting with your soul family, Gemini. You\u2019re catching up on little stories that you missed out on during your time apart. Remember, it\u2019s okay to make yourself vulnerable at this time. It\u2019s okay to talk about all the things that have been weighing you down. The bonds that are meant to last a lifetime will only get stronger as you bring the gift of authenticity to the table.",
+                "CosmicTip": "Cosmic tip: This is a time of celebration in your world."
+            },
+            "cancer": {
+                "Horoscope": "Nobody is going to save you, Cancer. Nobody is going to do the dirty work on your behalf. So, instead of waiting for that big moment, take matters in your hand. Get in the driver\u2019s seat of your life. Show up as the boldest and bravest version of yourself. The more you get in alignment with your mission, the more you will be able to attract opportunities that propel you in the direction of growth.",
+                "CosmicTip": "Cosmic tip: Stay in alignment. That\u2019s all!"
+            },
+            "leo": {
+                "Horoscope": "But, what about hope, optimism and magic? What about everyday miracles and the wishes that are inching closer to fulfilment? There is oh-so-much to be grateful for, Leo. Oh-so-much to celebrate! Write a letter to the Universe expressing your gratitude as you begin to trust that good things will transpire as you go along. As such, this is also a time of taking chances. A time of putting your faith back in yourself and letting the stirrings of your heart lead the way.",
+                "CosmicTip": "Cosmic tip: Write a letter to the Universe expressing your gratitude."
+            },
+            "virgo": {
+                "Horoscope": "It\u2019s safe for you to open your heart again, Virgo. It\u2019s safe for you to come as you are, express how you feel about this connection and share your innermost desires with the other. Trust that you have attracted this connection into your life for a reason, and that your personal evolution will transform the way in which you show up in your relationships. Virgos who\u2019ve been in a committed relationship for a while could be thinking about starting a family. If having children of your own is not an option, consider adoption and/or bring a furry friend home.",
+                "CosmicTip": "Cosmic tip: You could be thinking about starting a family right now."
+            },
+            "libra": {
+                "Horoscope": "Spoiler alert, Libra: your life is turning into a pity party for one. So, stop repeating the failure narrative. Stop operating from the victim consciousness. What you want to do instead is remember your own power and potential. Remember that you are but the Universe is a ecstatic motion, gifted with the power to co-create the life you have always envisioned for yourself *and* make radical changes. Something tells us you are ready to triumph over your fears and leave a legacy of love behind.",
+                "CosmicTip": "Cosmic tip: But, you are the Universe in ecstatic motion, beautiful!"
+            },
+            "scorpio": {
+                "Horoscope": "The cards are bringing your attention to money matters. To the balance between giving and receiving. Be cognisant of what is owed to you. If you need to follow up on certain payments, so be it. There is no need to apologise for what is rightfully yours. At the same time, make sure you clear your dues as well. Think of the repayment as a closing of karmic chapters. There is a sense of relief that you will feel on the other side of this process.",
+                "CosmicTip": "Cosmic tip: Ask for what is owed to you + clear your dues."
+            },
+            "sagittarius": {
+                "Horoscope": "What sparks your inner fire, Sagittarius? What are the things that bring joy and add meaning to your life? The cards are urging you to listen to your subconscious, the voice of your soul, the voice of wisdom that\u2019s guiding you towards your higher purpose. Remember, what you\u2019re being called to act upon may or may not make sense to the world, and that\u2019s okay. The only person who\u2019s validation you need right is *you*.",
+                "CosmicTip": "Cosmic tip: Follow what sparks your inner fire."
+            },
+            "capricorn": {
+                "Horoscope": "You\u2019ve spent a multitude of lifetimes working on yourself, Capricorn. You have a sense of who you are and who you are not. The only thing about the \u2018knowing\u2019 is that it sometimes makes us rigid and close ourselves off to the point of view of another person. Could this be true in your case too? Have you started to believe that your way is the only way out? Take a moment. Breathe. Assess where your rigidity is stemming from and what it is telling you. Bringing ease and flow back into the equation will help you resolve matters in an amicable manner.",
+                "CosmicTip": "Cosmic tip: Flexibility > Rigidity"
+            },
+            "aquarius": {
+                "Horoscope": "You\u2019ve always been a free soul, Aquarius. Somebody with an appetite for life and a penchant for adventure. So, it\u2019s but natural for you to be drawn towards unconventional romances, the kind that make you feel like you\u2019re being awakened from a deep slumber. Take this as a confirmation that you are on the right track and that you are ready to explore the unexplored together. Single water bearers are being reminded to get out of their funk by setting off on an adventure of their own. By trying something wildly different. Oh, and if the chance to hop onto the magic bus arises, say yes! Baby, just say yes!",
+                "CosmicTip": "Cosmic tip: You\u2019re ready to explore the unexplored together."
+            },
+            "pisces": {
+                "Horoscope": "You\u2019re stuck in a prison of your thoughts, Pisces. The only word that you\u2019ve incessantly been repeating is *cannot*. But, what if you decided to strike the *not* out of this equation? What if you began to reaffirm your power and potential? Just a reminder: the Universe is on your team and is helping you create your brightest and boldest life. So, take a chance, baby! Take a chance. You won\u2019t come to regret a thing, we promise!",
+                "CosmicTip": "Cosmic tip: Sometimes, you\u2019ve got to reaffirm your power and potential."
+            }
+        },
+        "27.06.2022": {
+            "aries": {
+                "Horoscope": "Not everybody deserves your love. Not everybody deserves a spot in your sacred circle. Be discerning about your energy, Aries. Give yourself the permission to say \u2018no\u2019 as and when something doesn\u2019t feel right. Remember that our definition of self-care expands as we get to know ourselves more intimately. When it comes to money matters, you\u2019re being asked to exercise caution. Be mindful of what you\u2019re putting your coins on and whether it is bringing you joy. Switching to saving mode is highly recommended right now.",
+                "CosmicTip": "Cosmic tip: Switch to savings mode."
+            },
+            "taurus": {
+                "Horoscope": "Taurus, you\u2019re learning. You\u2019re learning that you have to fill your own cup before you go out into the world. You\u2019re learning the art of putting your own seatbelt on before trying to salvage the lives of others. You\u2019re learning that you have to become your own source of joy and bliss. That your choices are yours alone, and that you don\u2019t need anybody else to validate them for you or tell you that your dreams are worth fighting for. This chapter of your life is about calling your power back to you and consciously choosing experiences that awaken the song of your soul.",
+                "CosmicTip": "Cosmic tip: But, first, put your own seatbelt on."
+            },
+            "gemini": {
+                "Horoscope": "Let\u2019s talk about the dreams we dreamed when we were younger, shall we? The dreams that filled us with hope and gave us a reason to jump out of bed every morning. You may or may not resonate with the same dreams anymore, and that\u2019s okay. That\u2019s okay, Gemini. Today, you\u2019re being asked to start an open and honest dialogue with yourself about the things that truly matter to you now. Don\u2019t be in a rush to jump to conclusions or find answers, though. Stay in a space of openness and allow the guidance you are seeking to come through.",
+                "CosmicTip": "Cosmic tip: Allow yourself to grow out of the old dream."
+            },
+            "cancer": {
+                "Horoscope": "Just a reminder, Cancer: you don\u2019t have to \u2018dial down the crazy\u2019. You don\u2019t have to dim your light because you\u2019re worried about shining too bright. What you are being called to do is honour your unique path. Honour what makes you, you. The more you show up from a space of authenticity, the more your outer reality will begin to shift with you.",
+                "CosmicTip": "Cosmic tip: Show up from a space of authenticity. That\u2019s all!"
+            },
+            "leo": {
+                "Horoscope": "Just in case you\u2019re wondering, you are on the right track and are making steady progress in the right direction. Take a moment to notice how much progress you have made since you first started. Take a moment to savour the succulent fruits that are being offered to you at the banquet. Draw inspiration from your own journey as you nurture with love, care and tenderness the seeds that are now beginning to show signs of life.",
+                "CosmicTip": "Cosmic tip: Trust the journey, beautiful."
+            },
+            "virgo": {
+                "Horoscope": "You don\u2019t need anybody else to validate your journey, to tell you that you\u2019re on the right track and that you\u2019re making the right choices. You\u2019re being called to do that for yourself today. To notice how far you have come since you first started and lay your trust back in yourself. You have many mountains to move along the way, Virgo, and something tells us you are just getting started.",
+                "CosmicTip": "Cosmic tip: Notice how far you have come since you first started."
+            },
+            "libra": {
+                "Horoscope": "Today, you\u2019re being reminded of the law of abundance. You\u2019re being reminded of the law of cause and effect, which states that everything you put into the cosmos will come back to you manifold. So, tap into the energy of generosity. Engage in a solid act of kindness without being attached to the outcome. Show up for the people you love from a space of openness and watch how your outer reality begins to shift with you.",
+                "CosmicTip": "Cosmic tip: Act from a space of generosity."
+            },
+            "scorpio": {
+                "Horoscope": "Surrender is not for the weak-hearted. It's an act of courage. An act of bravery. The willingness to trust the Universe fully once you have taken the action steps. Yes, that means things will not always work out the way you want them to, and that\u2019s okay. Having trust in the divine plan is paramount, one that will give you access to portals that were not even on your map, Scorpio.",
+                "CosmicTip": "Cosmic tip: Once again, it\u2019s time to lay your trust in the divine plan."
+            },
+            "sagittarius": {
+                "Horoscope": "If you want different, you need to move different. You know what they say about old keys, Sagittarius. But, that doesn\u2019t mean the past is of no value to you today. It simply means that you now have the opportunity to turn your knowledge into wisdom by integrating the soul lessons. On the personal front, you\u2019re being encouraged to stay open to all kinds of interactions. To hold space for contradictions. To listen to points of view that may or may not be in alignment with your values. The Universe is offering you the opportunity to break free from the prison of your conditioning.",
+                "CosmicTip": "Cosmic tip: Move different."
+            },
+            "capricorn": {
+                "Horoscope": "Here\u2019s a controversial opinion: the road of abstinence may not be suitable for everyone. Experiencing life vividly through the five senses is an integral part of the human experience. To deny ourselves of earthly pleasures would be an act of disservice. At the same time, overindulgence can take us down the path of self-destruction. So, how does one perfect the art of balance? How does one savour the pleasures of the material without losing touch with the spiritual? Something to introspect on as you find your way back to the centre.",
+                "CosmicTip": "Cosmic tip: Honour both the soulful and sensual aspects of your being, Capricorn."
+            },
+            "aquarius": {
+                "Horoscope": "Sometimes, your art is meant to change the world. Sometimes, it\u2019s meant to change you alone. Today, you\u2019re being asked to think of creations as a form of catharsis. To turn to the divine arts to express that which you have suppressed within. The cosmic weather is supporting you to dive deeper into your subconscious and uncover hidden gifts.",
+                "CosmicTip": "Cosmic tip: Think of your art as a form of catharsis."
+            },
+            "pisces": {
+                "Horoscope": "So, it didn\u2019t work out the first or the second time. And then, you made a boo-boo the third time around too. The good thing is, your mistakes are beautiful and your scars give a new meaning to your life. So, instead of descending into the rabbit hole of negative emotions, get some distance. Consciously redirect your energy towards the things that bring you joy. The activities that add meaning to your otherwise mundane existence. \u2018One step at a time\u2019 is a mantra that will help you get by, beautiful.",
+                "CosmicTip": "Cosmic tip: One step at a time."
+            }
+        },
+        "20.07.2022": {
+            "aries": {
+                "Horoscope": "Uh-oh! That awkward moment when you realise you\u2019re the one who has been standing in your way. Aries, it\u2019s time to stop repeating the failure narrative, once and for all! It\u2019s time to stop giving the things that didn\u2019t work out more power than they deserve. What you want to do instead is reclaim the reins. To remember that you signed up to be a co-creator in this dream weaving process. PS: Something tells us you\u2019re on the precipice of change and that something you\u2019ve been hoping and praying for will soon be fulfilled in an expected manner!",
+                "CosmicTip": "Cosmic tip: Remember that your power as a co-creator."
+            },
+            "taurus": {
+                "Horoscope": "The energy of conflict surrounds you at this moment, Taurus, and it\u2019s making you want to retreat into your burrow. But, going the non-confrontational route is not going to solve your problems. It will only add to the evergrowing feeling of frustration. What you want to do instead is make space for the discomfort and listen to what it has to say and then express your truth to the other person. Word of warning, though: they may or may not be fully receptive to what you have to say, and that\u2019s okay. A certain degree of detachment will help you get through this phase.",
+                "CosmicTip": "Cosmic tip: Express your truth. Say what you need to say."
+            },
+            "gemini": {
+                "Horoscope": "There\u2019s nothing to do and nowhere to go. The present moment is all that there is and the present moment demands your undivided attention. So, put that to-do list aside, will you? Slow down, breathe, and honour the sweet elixir that is being poured into your chalice. You are where you are healing, renewing, growing, ascending and coming into a space of wholeness. Remember, transformation does not always have to be tempestuous, Gemini. Embrace it as you embrace the gentle breeze that kisses your forehead at sunset.",
+                "CosmicTip": "Cosmic tip: You are healing, renewing, growing, ascending and coming into a space of wholeness."
+            },
+            "cancer": {
+                "Horoscope": "In the words of motivational speaker Tony Robbins, \u201cEnergy flows where attention goes.\u201d Read that again, Cancer. It\u2019s true that things aren\u2019t working out the way you\u2019d like them to\u2014the way you planned for them to\u2014but this is neither a good nor a bad thing. So, instead of repeating the story of failure and rejection, accept your circumstances for what they are. Accept that chaos is an integral part of the creation process. Accept that you will have to let go of your false attachments in order to ascend on a soul level. Remember, your higher self is with you and is holding space for you at every step along the way.",
+                "CosmicTip": "Cosmic tip: Affirm the blessed and the beautiful."
+            },
+            "leo": {
+                "Horoscope": "We all crave for the company of those we love, Leo. We all yearn to be wrapped in a warm embrace at the end of a hard day. But, how much proximity is too much proximity? How and where do you draw the line and what is the best way to preserve your energy? Here are some questions you want to ask yourself when you begin to retreat into quiet corners around the house. Remember, it\u2019s okay to be discerning with your time and energy. It\u2019s okay to communicate your need for space. The people in your life may not always understand where you are coming from. But, that doesn\u2019t mean they won\u2019t offer support in the best way they possibly can.",
+                "CosmicTip": "Cosmic tip: Express your need for space, beautiful."
+            },
+            "virgo": {
+                "Horoscope": "Today, the cards are bringing your attention to the law of balance and reciprocity, especially if you\u2019re being generous to a fault. Remember, not everybody around you is operating at the same frequency. Some people are perfectly okay playing the role of takers and deriving more from you than is owed to them. So, take a good look at your surroundings. The people who you have attracted into your energy field. Ask yourself if these relationships are supporting you in any way or merely draining your reserves. You\u2019ll know how and where to readjust the scales in the days to come.",
+                "CosmicTip": "Cosmic tip: \u2018Balance\u2019 and \u2018reciprocity\u2019 are your magic words."
+            },
+            "libra": {
+                "Horoscope": "You want them and you want to be with them. This has been clear to you from the start. So, have you expressed your thoughts and feelings to the beloved? Have you given them a chance to take a peek into your heart? What the cards are reminding you is that your paths have crossed in this lifetime for a reason. So, embrace the messy moments as you do the glorious parts. There is something beautiful waiting to be discovered in your paradise, Libra.",
+                "CosmicTip": "Cosmic tip: Embrace the messy moments as you do the glorious parts."
+            },
+            "scorpio": {
+                "Horoscope": "Rule number 1: don\u2019t assume. You know nothing about what\u2019s running in their mind at this time. Every explanation you come up with at this point is merely your version of the given incident. So, break the silence and start a dialogue with them about what\u2019s really going on. Direct questions will help you get to the heart of the matter, beautiful. Remember, you may or may not be in agreement with what they have to say, and that\u2019s okay. Hold space for contradictory opinions nonetheless.",
+                "CosmicTip": "Cosmic tip: Instead of assuming, ask direct questions."
+            },
+            "sagittarius": {
+                "Horoscope": "It\u2019s true that they loved you like nobody has loved you before. But, they also caused you more pain than you can measure. It\u2019s time to take your rose-tinted glasses off, Sagittarius. It\u2019s time to stop glorifying what you shared with them and recognise all the ways in which this entanglement became the reason you sabotaged your own life. Focusing your energy on cutting them off may prove to be counterproductive, though. What you want to instead is redirect your energy towards self-growth and love yourself a little more. This will help you remember that everything you seek is already within you.",
+                "CosmicTip": "Cosmic tip: Focus on your own growth instead."
+            },
+            "capricorn": {
+                "Horoscope": "The guidance for today is simple: don\u2019t assume, ask. Initiating important questions will help you cut through the BS and find the clarity you need at this moment. Given the general sense of chaos, some of you may have to play mediator too. Getting two or more parties with opposing points of view to agree may be a colossal task, Capricorn. Reminding them of the collective vision is a good place to start.",
+                "CosmicTip": "Cosmic tip: Initiate a dialogue."
+            },
+            "aquarius": {
+                "Horoscope": "You\u2019ve been down this road before, Aquarius. You\u2019ve made space in your heart for those who were undeserving of your love. You\u2019ve trusted people who chose to let you down over and over. Today, the cards are reminding you to make that paradigm shift. To begin to honour your inner light. To look at the deity in the mirror and remind them of their inherent beauty, grace and wisdom. You deserve more than yet another half-love. You deserve to be with somebody who is committed to building a life with you and promises to stand by you through the most turbulent of storms.",
+                "CosmicTip": "Cosmic tip: Honour the deity within first."
+            },
+            "pisces": {
+                "Horoscope": "You may feel like you\u2019ve driving endlessly without a clue as to where the road is leading you to. But, this is far from the truth, Pisces. You are in the midst of rapid change and your destination is around the corner from you. So, stay in the energy of what you\u2019ve been manifesting as you continue to put in the work. Something tells you are going to make your way to the top! PS: Travel for work may also be on the cards for some!",
+                "CosmicTip": "Cosmic tip: The destination is around the corner from you."
+            }
+        },
+        "29.07.2022": {
+            "aries": {
+                "Horoscope": "Hello, and welcome to the new moon portal! A time of hope. A time of infinite possibilities. A time of falling in love with everything life has to offer and wearing your heart on your sleeve. As such, this lunation is also activating the portal of self-love for you. You are feeling confident in your abilities to take over the world and achieve what you have set out to. So, wear your most charming smile as you go out into the world today, Aries. Something tells us the impossible is possible right now!",
+                "CosmicTip": "Cosmic tip: Confidence is a superpower."
+            },
+            "taurus": {
+                "Horoscope": "Our idea of happily-ever-after inevitably has to do with finding 'the one'. As a result, we end up glorifying romantic relationships and putting our lovers/suitors on a pedestal. Could this be true in your case too? Is your relationship status (or lack thereof) making you feel like you've somehow missed the boat? Pause, breathe and look at the situation from a higher perspective. You are where you need to be. So, honour this as an opportunity to get into a committed relationship with self-growth.",
+                "CosmicTip": "Cosmic tip: Learn to be your own lover first!"
+            },
+            "gemini": {
+                "Horoscope": "There is so much you don\u2019t know about \u2018the other\u2019. There is so much you\u2019re yet to figure out about their inner world, and that\u2019s okay, Gemini. Give this connection the time it needs to unfold as it must. There is a lot you will discover about your own love language in the process. When it comes to your creative pursuits, you\u2019re being asked to dedicate yourself to what brings you joy. Perfection is an illusion created by the human mind. The only thing you want to do is stay in the energy of play and allow divine inspiration to flow through you.",
+                "CosmicTip": "Cosmic tip: Stay in the energy of play. That\u2019s all!"
+            },
+            "cancer": {
+                "Horoscope": "There is no such thing as an overnight success. You have to be willing to work towards the desired goals in a consistent manner. You have to be willing to get up and show up even when it seems as if your world is being turned upside down - and this is precisely what you have been focusing on. Take this as a confirmation that you are on the right track and that you will continue to thrive as you go along, Cancer!",
+                "CosmicTip": "Cosmic tip: Get up and show even on the days you want to give up!"
+            },
+            "leo": {
+                "Horoscope": "Just a reminder, Leo: if you want things to move, you\u2019re going to have to take initiative. So, sign up for that course, work on your application, update your CV. Make a conscious effort to put yourself out there, network with the right people and connect with potential employers. At the same time, let your close friends and family members (the one you trust), be in the know of what you\u2019re looking for. Their contacts could come in handy at this time.",
+                "CosmicTip": "Cosmic tip: Get in the driver\u2019s seat of your life!"
+            },
+            "virgo": {
+                "Horoscope": "Cutting them off without a word of warning is easy, Virgo. But, being *this* brutal has never been your style. So, initiate a conversation and give them the closure you need to. Trust us, you\u2019ll feel like a weight has been lighted off your chest. When it comes to professional matters, you\u2019re being reminded that you are on the right track. So, continue to pursue your goals with single-minded focus. As you do, take the challenges in your stride too. The Universe is merely testing your resolve at this time.",
+                "CosmicTip": "Cosmic tip: Have the conversation you need to."
+            },
+            "libra": {
+                "Horoscope": "You\u2019re at a point in your life where you no longer feel the need to prove anything to anybody. You\u2019re one with the flow, and you\u2019re learning to accept everything that life is offering you irrespective of the form in which the experience presents itself to you. Surrender is a beautiful practice, Libra, one that will unlock the portal of miracles. When it comes to your professional/creative pursuits, you\u2019re being asked to embrace your imaginative side. The ideas that are coming through have the potential to change the quality of your work drastically. PS: It\u2019s time to paint your canvas in the brightest and boldest of hues!",
+                "CosmicTip": "Cosmic tip: Perfect the art of surrender, beautiful."
+            },
+            "scorpio": {
+                "Horoscope": "When you enter into a committed relationship with growth, you say yes to all the experiences that come with it, some of which are masked as \u2018unpleasant\u2019 too. This is a universal truth the cards are bringing your attention to. So, look beyond the lens of the good and the bad and accept your circumstances as they are. Acceptance is a powerful gift, Scorpio, one that will help you bring about a dynamic shift both in your inner and outer landscape. Journal prompt: How far have I come since I first began walking this path?",
+                "CosmicTip": "Cosmic tip: Just for today, accept your circumstances as they are."
+            },
+            "sagittarius": {
+                "Horoscope": "This is a significant period of growth for you, Sagittarius. A time of bridging the gap between your passion and your profession. A time of remembering that you can create a life for yourself that is financially rewarding and creatively satisfying at the same time. Given that change has been set into motion, a geographical move may be on the cards too. Remember, you will never truly feel prepared for changes that are coming your way yet you are. So, jump in. Jump right in. You\u2019ll have plenty of time to figure it all out as you go along.",
+                "CosmicTip": "Cosmic tip: You have the power to create a life that is financially rewarding and creatively satisfying at the same time."
+            },
+            "capricorn": {
+                "Horoscope": "You\u2019re in it, Capricorn! You\u2019re in the life you manifested a long time ago. So, take a moment, will you? Take a moment to look around at the grace and beauty that surrounds you. By letting go of the constant need to be somewhere or achieve something, you will be able to anchor yourself in the present moment. Oh, and one more thing! The journey you have undertaken is a unique one. So, let go of the need to compare it with that of other people or turn to the outside world for the validation you desire.",
+                "CosmicTip": "Cosmic tip: You\u2019re in the life you have manifested!"
+            },
+            "aquarius": {
+                "Horoscope": "What is meant to be yours will always find its way to you. As for what isn't? It will mysteriously be taken away from you. Instead of going into a space of victimhood, accept the karmic cycles that have completed themselves. Remind yourself that things are happening for you and not to you. This will give you the strength you need to get up and show up despite your circumstances.",
+                "CosmicTip": "Cosmic tip: Things are happening for, not to you."
+            },
+            "pisces": {
+                "Horoscope": "Quit waiting for Friday\u2014for that special day\u2014for retirement\u2014for that moment when everything looks picture perfect. Here\u2019s the thing, Pisces: perfection is a myth and there will never be a time when you feel fully prepared to set off on that pilgrimage. So, offer your inhibitions to the sacred fire as you begin to set things into motion. The Universe is supporting you in your mission to make your wildest dreams come true..",
+                "CosmicTip": "Cosmic tip: Start investing in your wildest dreams, beautiful."
+            }
+        },
+        "02.08.2022": {},
+        "09.08.2022": {}
+    }
+}
