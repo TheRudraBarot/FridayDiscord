@@ -1,0 +1,2 @@
+# FridayDiscord
+Utility Discord Bot
